@@ -10,6 +10,20 @@ export default defineAppConfig({
       }
     }
   },
+
+  landingPage: {
+    hero: {
+      logo: "", //ex. /logo.png
+      title: "", //ex. Build the next \n generation of \n wireless
+      subtitle: "", //ex. For A Connected World
+    },
+    button: {
+      disabled: true,
+      url: "/", //ex. /omaspecworks
+      label: "", //ex. Get Started
+    }
+  },
+
   main: {
     font: {
       type: 'Arial',
@@ -58,31 +72,32 @@ export default defineAppConfig({
       },
     },
   },
+
   socialLinks: {
-    linkedIn: {
-      title: "LinkedIn",
-      logo: "i-fa6-brands-linkedin",
-      url: "http://www.linkedin.com/company/52819?trk=tyah",
-    },
-    facebook: {
-      title: "Facebook",
-      logo: "i-fa6-brands-square-facebook",
-      url: "https://www.facebook.com/OMASpecWorks",
-    },
-    youtube: {
-      title: "YouTube",
-      logo: "i-fa6-brands-square-youtube",
-      url: "https://www.youtube.com/c/OMASpecWorks",
-    },
-    x: {
-      title: "X",
-      logo: "i-fa6-brands-square-x-twitter",
-      url: "https://twitter.com/OMASpecWorks",
-    },
+    // linkedIn: {
+    //   title: "LinkedIn",
+    //   logo: "i-fa6-brands-linkedin",
+    //   url: "http://www.linkedin.com/company/52819?trk=tyah",
+    // },
+    // facebook: {
+    //   title: "Facebook",
+    //   logo: "i-fa6-brands-square-facebook",
+    //   url: "https://www.facebook.com/OMASpecWorks",
+    // },
+    // youtube: {
+    //   title: "YouTube",
+    //   logo: "i-fa6-brands-square-youtube",
+    //   url: "https://www.youtube.com/c/OMASpecWorks",
+    // },
+    // x: {
+    //   title: "X",
+    //   logo: "i-fa6-brands-square-x-twitter",
+    //   url: "https://twitter.com/OMASpecWorks",
+    // },
     github: {
       title: "GitHub",
       logo: "i-fa6-brands-square-github",
-      url: "https://github.com/OpenMobileAlliance",
+      url: "https://github.com/standards-hub",
     },
     // rss: {
     //   title: "RSS",
