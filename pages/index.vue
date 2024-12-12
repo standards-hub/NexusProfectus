@@ -1,7 +1,6 @@
 <template>
-  <div :class="ui.landingHero.wrapper" class="bg-[url('/images/landing-hero/lh-3.jpeg')] bg-cover bg-center"> 
-    <ContentDoc class="pl-12 pr-12 sm:pl-16 sm:pr-16 md:pl-24 md:pr-24 lg:pl-50 lg:pr-50 pb-32" />
-    <!-- <div class="grid grid-cols-2">
+  <div :class="ui.landingHero.wrapper" class="bg-[url('/images/landing-hero/lh-3.jpeg')] bg-cover bg-center">
+    <div class="grid grid-cols-2">
       <div :class="ui.landingHero.hero">
         <img v-if="landingPage.hero.logo" :src="landingPage.hero.logo" alt="Logo" :class="ui.landingHero.logo" />
         <div class="rounded-xl">
@@ -10,25 +9,25 @@
           </p>
         </div>
         <ShButton v-if="landingPage.button.disabled === false" :disabled="landingPage.button.disabled"
-          :urlButton="landingPage.button.url" :class="ui.landingPage.button" :labelButton="landingPage.button.label">
+          :urlButton="landingPage.button.url" :class="ui.landingPage.button" :labelButton="landingPage.button.label" :target="landingPage.button.target">
         </ShButton>
-      </div> -->
-    <!-- <div class="col-start-2 col-span-1 pr-5 sm:mt-24 md:mt-56">
+      </div>
+      <!-- <div class="col-start-2 col-span-1 pr-5 sm:mt-24 md:mt-56">
         <ContentQuery path="/landing-page-menu" v-slot="{ data }">
           <h1 v-if="data[0].title !== 'Landing Page Menu'" :class="ui.landingPage.menu.title">{{ data[0].title }}</h1>
           <h3 :class="ui.landingPage.menu.description">{{ data[0].description }}</h3>
           <ContentRenderer :value="item" v-for="item in data" :class="ui.landingPage.menu.content" />
         </ContentQuery> -->
 
-    <!-- section below this comment was already comented (it has been deprecated) -->
+        <!-- section below this comment was already comented (it has been deprecated) -->
 
-    <!-- <ContentQuery path="/landing-page-floaters" v-slot="{ data }">
+        <!-- <ContentQuery path="/landing-page-floaters" v-slot="{ data }">
           <ContentRenderer :value="item" v-for="item in data"
             class="flex flex-col lg:flex-row h-[80%] sm:h-full lg:h-1/6 lg:pl-16 items-end p-3 sm:p-0 mt-12 sm:mt-14 lg:mt-64" />
         </ContentQuery> -->
-    <!-- </div> -->
+      <!-- </div> -->
+    </div>
   </div>
-  <!-- </div> -->
   <!-- <ContentDoc :class="ui.landingPage.contentDoc" /> -->
   <AppFooter />
 </template>

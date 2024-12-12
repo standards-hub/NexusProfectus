@@ -75,7 +75,7 @@
               icon="i-heroicons-exclamation-triangle" />
           </div>
         </div>
-        <PrevNextPage v-if="route.path !== '/'" />
+        <!-- <PrevNextPage v-if="route.path !== '/'" /> -->
       </template>
     </article>
   </main>

@@ -13,14 +13,15 @@ export default defineAppConfig({
 
   landingPage: {
     hero: {
-      logo: "", //ex. /logo.png
-      title: "", //ex. Build the next \n generation of \n wireless
-      subtitle: "", //ex. For A Connected World
+      logo: "/logo.png", //ex. /logo.png
+      title: "Build the next \n generation of \n wireless", //ex. Build the next \n generation of \n wireless
+      subtitle: "For A Connected World", //ex. For A Connected World
     },
     button: {
-      disabled: true,
-      url: "/", //ex. /omaspecworks
-      label: "", //ex. Get Started
+      disabled: false,
+      target: "_self",
+      url: "/mmintegration/", //ex. /omaspecworks
+      label: "Get Started", //ex. Get Started
     }
   },
 
