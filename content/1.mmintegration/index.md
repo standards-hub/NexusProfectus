@@ -1,8 +1,8 @@
 ---
 layout: doc
+title: Meeting Minutes Integration
+description: Visual representation of a MM App integrated into a existing website
 ---
-## Nexus Profectus
-### Connection of progress
 
 ::ShSegment
 ---

@@ -1,12 +1,9 @@
-::ShSegment
 ---
-ui: 
-    wrapper: text-center text-6xl p-4 dark:text-golden
+title: Meeting Minutes App
+description: Visual representation of a MM App as a standalone one-page website UI
 ---
-**Nexus Profectus**
 
-[Connection of progress]{.text-2xl}
-::
+[Go back](/mmintegration)
 
 ::ShSegment
 ---

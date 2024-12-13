@@ -66,7 +66,7 @@
       </template>
 
       <template v-else>
-        <div class="grid grid-cols-12 ">
+        <div class="grid grid-cols-12 -mt-20">
           <ContentRenderer v-if="page" :value="page" :style="{ fontSize: main.font.size }"
             class="col-start-1 col-span-12 w-full lg:w-fit par mt-8 pb-24">
           </ContentRenderer>
@@ -77,6 +77,7 @@
         </div>
         <!-- <PrevNextPage v-if="route.path !== '/'" /> -->
       </template>
+
     </article>
   </main>
 </template>

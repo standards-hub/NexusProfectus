@@ -1,5 +1,5 @@
 <template>
-  <header :class="ui.wrapper"
+  <header v-if="route.path !== '/mmapp'" :class="ui.wrapper"
     class="backdrop-blur bg-gradient-to-b from-primary/[0.5] dark:bg-gradient-to-b dark:from-primary/[0.25]">
     <div class="px-8">
       <div :class="ui.container">
