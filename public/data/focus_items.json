@@ -1,0 +1,3313 @@
+
+[
+    {
+        "number": 666,
+        "title": "[Work_Item] Support for recognising contractual commitment events as billing records (i.e. burn-up, negotiated rates)",
+        "type": "issue"
+    },
+    {
+        "number": 665,
+        "title": "[FEEDBACK]: Conformance report template and requirements for public disclosure",
+        "type": "issue"
+    },
+    {
+        "number": 663,
+        "title": "[FEEDBACK]: New FOCUS column to track \"associated\" resource ID",
+        "type": "issue"
+    },
+    {
+        "number": 662,
+        "title": "[FEEDBACK]: Clarifying \"Reduced\" vs \"Negotiated\" terminology",
+        "type": "issue"
+    },
+    {
+        "number": 650,
+        "title": "[FEEDBACK]: Support for a forecast dataset ",
+        "type": "issue"
+    },
+    {
+        "number": 649,
+        "title": "[Work_Item] Add normalized recommendations dataset",
+        "type": "issue"
+    },
+    {
+        "number": 648,
+        "title": "[FEEDBACK]: Standardize billing tags and provide them as first-class columns",
+        "type": "issue"
+    },
+    {
+        "number": 647,
+        "title": "[Work_Item] Prevent double-counting list/contracted cost for commitment discounts",
+        "type": "issue"
+    },
+    {
+        "number": 644,
+        "title": "[MAINTENANCE]: Correction to version for release",
+        "type": "issue"
+    },
+    {
+        "number": 643,
+        "title": "[Work_Item] Define change management principles to determine backwards compatibility",
+        "type": "issue"
+    },
+    {
+        "number": 641,
+        "title": "[DISCUSSION]: Relationship of CSP vs SaaS with origination of cost data elements (i.e. Provider, Publisher, and Invoice Issuer)",
+        "type": "issue"
+    },
+    {
+        "number": 640,
+        "title": "[DISCUSSION]: Granularity of SaaS data passing through CSP exports",
+        "type": "issue"
+    },
+    {
+        "number": 639,
+        "title": "[DISCUSSION]: How to uniquely identify a row in FOCUS file?",
+        "type": "issue"
+    },
+    {
+        "number": 638,
+        "title": "[Work_Item] Practitioner defined cost allocation",
+        "type": "issue"
+    },
+    {
+        "number": 637,
+        "title": "[Work_Item] Cloud Sustainability",
+        "type": "issue"
+    },
+    {
+        "number": 636,
+        "title": "[Work_Item] Clarify guidance around 'Refunds' within FOCUS",
+        "type": "issue"
+    },
+    {
+        "number": 634,
+        "title": "[Work_Item] Add Commitment Flexibility examples within the Appendix",
+        "type": "issue"
+    },
+    {
+        "number": 622,
+        "title": "[FEEDBACK]: Ability to Custom Add FOCUS 'columns'",
+        "type": "issue"
+    },
+    {
+        "number": 619,
+        "title": "[Work_Item] Add SKU and SKU Price properties (e.g. term, tier, SKU region)",
+        "type": "issue"
+    },
+    {
+        "number": 618,
+        "title": "[Work_Item] Add Account / Resource hierarchy attributes",
+        "type": "issue"
+    },
+    {
+        "number": 617,
+        "title": "[Work_Item] Revise glossary definition for FOCUS dataset to include provider columns",
+        "type": "issue"
+    },
+    {
+        "number": 616,
+        "title": "[Work_Item] Document and add initial support for SaaS-centric concepts",
+        "type": "issue"
+    },
+    {
+        "number": 615,
+        "title": "[Work_Item] Add Invoice ID",
+        "type": "issue"
+    },
+    {
+        "number": 614,
+        "title": "[Work_Item] Add data recency to metadata",
+        "type": "issue"
+    },
+    {
+        "number": 613,
+        "title": "[Work_Item] Add guidance for how to incorporate non-cloud (on-prem) assets",
+        "type": "issue"
+    },
+    {
+        "number": 611,
+        "title": "Tracking issue for 1.2 Work Items",
+        "type": "issue"
+    },
+    {
+        "number": 610,
+        "title": "[Work_Item] Adopt a \"Derivatives\"-first approach when introducing metric-based columns",
+        "type": "issue"
+    },
+    {
+        "number": 609,
+        "title": "[DISCUSSION]: Using existing KPIs resources to help us prioritize ",
+        "type": "issue"
+    },
+    {
+        "number": 608,
+        "title": "[Work_Item] Add SKU categorization hierarchy",
+        "type": "issue"
+    },
+    {
+        "number": 607,
+        "title": "[FEEDBACK]: Invoice ID",
+        "type": "issue"
+    },
+    {
+        "number": 606,
+        "title": "[DISCUSSION]: 24.09.27 - Columns – Editorial PRs ",
+        "type": "issue"
+    },
+    {
+        "number": 605,
+        "title": "[DISCUSSION]: FOCUS Backlog for 1.2 Forward ",
+        "type": "issue"
+    },
+    {
+        "number": 604,
+        "title": "[DISCUSSION]: Issue Template Discussion",
+        "type": "issue"
+    },
+    {
+        "number": 603,
+        "title": "[DISCUSSION]: Negotiated Burn-Down Commitment-based Discounts",
+        "type": "issue"
+    },
+    {
+        "number": 602,
+        "title": "[SPEC CHANGE]: Is the inclusion of custom/native columns in the FOCUS dataset recommended",
+        "type": "issue"
+    },
+    {
+        "number": 601,
+        "title": "[SPEC CHANGE]: Improve supporting content for CommitmentDiscountType",
+        "type": "issue"
+    },
+    {
+        "number": 600,
+        "title": "[DISCUSSION]: FOCUS Process Improvements - Work Item Creation",
+        "type": "issue"
+    },
+    {
+        "number": 595,
+        "title": "[DISCUSSION]: Cloud Provider Billing Report Columns to Focus Columns Mapping documentation",
+        "type": "issue"
+    },
+    {
+        "number": 594,
+        "title": "[EDITORIAL]: Editorial guidelines should be consistently applied throughout the specification.",
+        "type": "issue"
+    },
+    {
+        "number": 586,
+        "title": "Clarification on Billing Period Dimension in FOCUS specification",
+        "type": "issue"
+    },
+    {
+        "number": 580,
+        "title": "[Consistency Review]: Remove Use case library from the specification and link to FOCUS website",
+        "type": "issue"
+    },
+    {
+        "number": 578,
+        "title": "[DISCUSSION]: Formally document the backwards compatibility process for FOCUS",
+        "type": "issue"
+    },
+    {
+        "number": 557,
+        "title": "[Work_Item] Refine normative requirements for all existing spec content",
+        "type": "issue"
+    },
+    {
+        "number": 556,
+        "title": "[Work_Item]: Augment support for correction handling",
+        "type": "issue"
+    },
+    {
+        "number": 551,
+        "title": "[Consistency Review]: Minor language fixes in ChargeSubcategory for consistency",
+        "type": "issue"
+    },
+    {
+        "number": 547,
+        "title": "Consistency Review: Standardize column specifications for correction charges",
+        "type": "issue"
+    },
+    {
+        "number": 546,
+        "title": "Double Counting (TF-1) ",
+        "type": "issue"
+    },
+    {
+        "number": 542,
+        "title": "[DISCUSSION]: List of issues to be discussed and potentially addressed as part of the FOCUS 1.1 Consistency Review",
+        "type": "issue"
+    },
+    {
+        "number": 540,
+        "title": "[Work_Item] (BUG) Ensure all user-defined Tags are encapsulated within the `Tags` column",
+        "type": "issue"
+    },
+    {
+        "number": 537,
+        "title": "[DISCUSSION]: Separate Virtual Machines sub-category to delineate dedicated / bare metal services ",
+        "type": "issue"
+    },
+    {
+        "number": 534,
+        "title": "[Work_Item] Add Commitment Discount Unit Price and Cost",
+        "type": "issue"
+    },
+    {
+        "number": 532,
+        "title": "[DISCUSSION]: PricingCategory (Committed or Standard) for commitment discount purchase records",
+        "type": "issue"
+    },
+    {
+        "number": 531,
+        "title": "[Consistency Review]: Use consistent casing for the word decimal",
+        "type": "issue"
+    },
+    {
+        "number": 529,
+        "title": "[DISCUSSION]: Enhancing Visibility and Integration of Supporting Content FOCUS Specification",
+        "type": "issue"
+    },
+    {
+        "number": 526,
+        "title": "[Change Request]: Service Category and Service Subcategory columns should set expectations that values / mappings may change in future releases",
+        "type": "issue"
+    },
+    {
+        "number": 525,
+        "title": "[Change Request]: FOCUS versioning related docs need clarification",
+        "type": "issue"
+    },
+    {
+        "number": 520,
+        "title": "[Work_Item] Introduce experimental columns or data elements into the FOCUS schema",
+        "type": "issue"
+    },
+    {
+        "number": 518,
+        "title": "[DISCUSSION]: Introduce conversion columns to show costs from the original BillingCurrency into a converted currency.",
+        "type": "issue"
+    },
+    {
+        "number": 517,
+        "title": "[DISCUSSION]: No Upfront commitment purchase rows (with zero cost) should be required.",
+        "type": "issue"
+    },
+    {
+        "number": 511,
+        "title": "[DISCUSSION]: Handling of corrections in the event of USAGE errors",
+        "type": "issue"
+    },
+    {
+        "number": 510,
+        "title": "[Work_Item] Add Service Model",
+        "type": "issue"
+    },
+    {
+        "number": 508,
+        "title": "GCP Converter: Bugs / Issues in converter implementation",
+        "type": "issue"
+    },
+    {
+        "number": 502,
+        "title": "Service Type",
+        "type": "issue"
+    },
+    {
+        "number": 498,
+        "title": "Managing Feedback from FinOps Community to FOCUS Providers/Maintainers",
+        "type": "issue"
+    },
+    {
+        "number": 497,
+        "title": "SKU Price Details",
+        "type": "issue"
+    },
+    {
+        "number": 496,
+        "title": "Categorization Principles",
+        "type": "issue"
+    },
+    {
+        "number": 495,
+        "title": "SKU Properties & Providers alignment",
+        "type": "issue"
+    },
+    {
+        "number": 494,
+        "title": "Ingredients vs. Cakes Discussion",
+        "type": "issue"
+    },
+    {
+        "number": 493,
+        "title": "[ADMIN] FOCUS Roles & Tasks",
+        "type": "issue"
+    },
+    {
+        "number": 492,
+        "title": "ConsumedQuantity and ConsumedUnit in case of 'Unused' commitment",
+        "type": "issue"
+    },
+    {
+        "number": 491,
+        "title": "ChargeClass value in case of late arriving charge records",
+        "type": "issue"
+    },
+    {
+        "number": 482,
+        "title": "FOCUS ISV Onboarding ",
+        "type": "issue"
+    },
+    {
+        "number": 477,
+        "title": "A Method For Managing Levels of Detail and Dealing with Competing Priorities",
+        "type": "issue"
+    },
+    {
+        "number": 476,
+        "title": "[EDITORIAL] Editorial Style Reference (Proposal)",
+        "type": "issue"
+    },
+    {
+        "number": 475,
+        "title": "Provide example of difference between Charge and Billing Period",
+        "type": "issue"
+    },
+    {
+        "number": 473,
+        "title": "SKU / SKU Price Details-related issues - backlog cleanup",
+        "type": "issue"
+    },
+    {
+        "number": 472,
+        "title": "Billing dataset or FOCUS dataset - terminology, definition and metadata requirements",
+        "type": "issue"
+    },
+    {
+        "number": 467,
+        "title": "Possible Scope Themes for v1.1",
+        "type": "issue"
+    },
+    {
+        "number": 466,
+        "title": "Derived charges (such as '%' of other charges) in the billing dataset",
+        "type": "issue"
+    },
+    {
+        "number": 465,
+        "title": "GitHub Team Access Rights Proposal",
+        "type": "issue"
+    },
+    {
+        "number": 464,
+        "title": "Branches Status",
+        "type": "issue"
+    },
+    {
+        "number": 462,
+        "title": "Proposal for Revision of Labeling and Qualification System",
+        "type": "issue"
+    },
+    {
+        "number": 452,
+        "title": "Update Use Case examples with new column names",
+        "type": "issue"
+    },
+    {
+        "number": 449,
+        "title": "[ADMIN] Update branch 'candidate_release' to 'candidate_recommendation' as per our foundation operational procedures",
+        "type": "issue"
+    },
+    {
+        "number": 446,
+        "title": "Correction of term sponsored with supported for the relationship with the FinOps Foundation",
+        "type": "issue"
+    },
+    {
+        "number": 441,
+        "title": "Commitment purchase, Unused commitmenr and Burndown related questions",
+        "type": "issue"
+    },
+    {
+        "number": 440,
+        "title": "Add different pricing scenarios in Appendix",
+        "type": "issue"
+    },
+    {
+        "number": 438,
+        "title": "Builds failing with error: externally-managed-environment",
+        "type": "issue"
+    },
+    {
+        "number": 437,
+        "title": "Should FOCUS try to update language in the spec where it _may_ be considered jargon",
+        "type": "issue"
+    },
+    {
+        "number": 436,
+        "title": "Need a prescriptive way to avoid double-counting List/ContractedCost",
+        "type": "issue"
+    },
+    {
+        "number": 430,
+        "title": "Consistency Review: EffectiveCost in case of purchase paid to cover future eligible charges",
+        "type": "issue"
+    },
+    {
+        "number": 426,
+        "title": "Consistency Review: ChargeCategory definition and description review",
+        "type": "issue"
+    },
+    {
+        "number": 425,
+        "title": "Consistency Review: ChargeClass definition review",
+        "type": "issue"
+    },
+    {
+        "number": 424,
+        "title": "Consistency Review: Review List/Contracted Cost behavior compared to Billed/Effective to ensure no metrics are double counting cost",
+        "type": "issue"
+    },
+    {
+        "number": 423,
+        "title": "'Charge Class'  update to indicate that Corrections are only applicable to previous billing period",
+        "type": "issue"
+    },
+    {
+        "number": 417,
+        "title": "Concerns regarding Null Handling attribute requirements",
+        "type": "issue"
+    },
+    {
+        "number": 414,
+        "title": "Is FOCUS use of \"Service\" aligned with the FinOps tools and services capability?",
+        "type": "issue"
+    },
+    {
+        "number": 411,
+        "title": "Need to review and decide on a Metadata versioning / ID approach",
+        "type": "issue"
+    },
+    {
+        "number": 409,
+        "title": "UsageQuantity/Unit should be required based on PricingQuantity differentiation",
+        "type": "issue"
+    },
+    {
+        "number": 406,
+        "title": "[Work_Item] Add support for coverage eligibility",
+        "type": "issue"
+    },
+    {
+        "number": 404,
+        "title": "Add support for sub categorizations of ServiceCategory",
+        "type": "issue"
+    },
+    {
+        "number": 399,
+        "title": "Review columns and attributes referencing ChargeCategory, ChargeSubcategory, etc.",
+        "type": "issue"
+    },
+    {
+        "number": 397,
+        "title": "How to represent ODCRs in FOCUS",
+        "type": "issue"
+    },
+    {
+        "number": 392,
+        "title": "FOCUS Feature level does not differentiate between MUST under condition vs SHOULD/RECOMMENDED",
+        "type": "issue"
+    },
+    {
+        "number": 388,
+        "title": "Column: CONDITIONAL Statement Alternative",
+        "type": "issue"
+    },
+    {
+        "number": 387,
+        "title": "Column: AvailabilityZone - Options for CONDITIONAL Expressions",
+        "type": "issue"
+    },
+    {
+        "number": 385,
+        "title": "Mark the version for all FOCUS columns and attributes to be introduced in v1.0",
+        "type": "issue"
+    },
+    {
+        "number": 380,
+        "title": "Ensure that pertinent column details are located within the Column definition first before the Glossary",
+        "type": "issue"
+    },
+    {
+        "number": 379,
+        "title": "Update to allowed ServiceCategory values",
+        "type": "issue"
+    },
+    {
+        "number": 377,
+        "title": "Put license information into unique file and align with project",
+        "type": "issue"
+    },
+    {
+        "number": 375,
+        "title": "Ensure partial and Full-up-front commitment discount handling is supported with the current discount handling attribute in FOCUS",
+        "type": "issue"
+    },
+    {
+        "number": 374,
+        "title": "Within a billing month dataset partition, explicitly state all included columns/properties must be present in all rows. ",
+        "type": "issue"
+    },
+    {
+        "number": 373,
+        "title": "String type attribute: character set and max length",
+        "type": "issue"
+    },
+    {
+        "number": 371,
+        "title": "Charge Frequency not in Essentials",
+        "type": "issue"
+    },
+    {
+        "number": 367,
+        "title": "Should Availability Zone be a conditional field for all providers that support an availability zone concept (today it's optional)",
+        "type": "issue"
+    },
+    {
+        "number": 366,
+        "title": "SkuId, SkuPriceId, and Pricing-related columns review due to ChargeCategory and ChargeClass cleanup",
+        "type": "issue"
+    },
+    {
+        "number": 365,
+        "title": "Changelog appendix",
+        "type": "issue"
+    },
+    {
+        "number": 363,
+        "title": "[Proposal] Update discount_handling.md",
+        "type": "issue"
+    },
+    {
+        "number": 362,
+        "title": "[Proposal] Update column_naming_convention.md",
+        "type": "issue"
+    },
+    {
+        "number": 359,
+        "title": "Enhanced consistency in ResourceType and ServiceName across a resourceId-related charge records",
+        "type": "issue"
+    },
+    {
+        "number": 358,
+        "title": "[FEEDBACK]: Does FOCUS standard is planning to support the licenses costs acquired thru a CSP Marketplace of thru another ways interfaced with the CSP ?",
+        "type": "issue"
+    },
+    {
+        "number": 357,
+        "title": "Billing file generator data needed",
+        "type": "issue"
+    },
+    {
+        "number": 356,
+        "title": "[Proposal] Separation of Tags and Labels",
+        "type": "issue"
+    },
+    {
+        "number": 354,
+        "title": "FOCUS Metadata Specification",
+        "type": "issue"
+    },
+    {
+        "number": 351,
+        "title": "Add a indication of mutability to the content contraints of each column",
+        "type": "issue"
+    },
+    {
+        "number": 345,
+        "title": "Improve the README",
+        "type": "issue"
+    },
+    {
+        "number": 344,
+        "title": "[Content Suggestion] Clarify what is included in FOCUS \"Amortization\"",
+        "type": "issue"
+    },
+    {
+        "number": 343,
+        "title": "[Content Suggestion] Effective cost and blending of rates",
+        "type": "issue"
+    },
+    {
+        "number": 342,
+        "title": "[Content Suggestion] Tag key appearance",
+        "type": "issue"
+    },
+    {
+        "number": 341,
+        "title": "[Content Suggestion] FOCUS line item examples",
+        "type": "issue"
+    },
+    {
+        "number": 340,
+        "title": "[Attribute Suggestion] Default column order in FOCUS",
+        "type": "issue"
+    },
+    {
+        "number": 339,
+        "title": "[Proposal] Add support for describing different types of usage of a single product.",
+        "type": "issue"
+    },
+    {
+        "number": 338,
+        "title": "[Proposal] Add support for displaying the source and breakdown of one or more discounts on a single line item.",
+        "type": "issue"
+    },
+    {
+        "number": 337,
+        "title": "[Proposal] Handling Pricing Models that  Use a Non Direct to Currency Pricing Model ",
+        "type": "issue"
+    },
+    {
+        "number": 336,
+        "title": "Add the capability to calculate savings resulting from negotiation activities",
+        "type": "issue"
+    },
+    {
+        "number": 335,
+        "title": "GroupingAccount{ID,Name} to track sets of SubAccounts",
+        "type": "issue"
+    },
+    {
+        "number": 334,
+        "title": "Should FOCUS provide an opinion on a frequency that a dataset must be partitioned?",
+        "type": "issue"
+    },
+    {
+        "number": 333,
+        "title": "Provider's FOCUS schema",
+        "type": "issue"
+    },
+    {
+        "number": 332,
+        "title": "Versioning of FOCUS normalized data over long time periods?",
+        "type": "issue"
+    },
+    {
+        "number": 330,
+        "title": "Charge and Pricing category cleanup",
+        "type": "issue"
+    },
+    {
+        "number": 327,
+        "title": "Clarification on PricingUnit vs UsageUnit, block-pricing, and inclusion of sample data for relevant use cases",
+        "type": "issue"
+    },
+    {
+        "number": 326,
+        "title": "[Proposal]: Multiple values for Service Category ",
+        "type": "issue"
+    },
+    {
+        "number": 325,
+        "title": "[FEEDBACK]: Do we have standard dataset format to be used whatever the CSP and load it in my single PowerBI reporting ?",
+        "type": "issue"
+    },
+    {
+        "number": 321,
+        "title": "Add Support Service Category",
+        "type": "issue"
+    },
+    {
+        "number": 320,
+        "title": "SkuCapacity / SkuCapacityUnit",
+        "type": "issue"
+    },
+    {
+        "number": 319,
+        "title": "Add Commitment Utilization columns to help practitioners easily determine Commitment efficiency",
+        "type": "issue"
+    },
+    {
+        "number": 318,
+        "title": "Handle UC scenarios when pricing and billing are in different currencies",
+        "type": "issue"
+    },
+    {
+        "number": 317,
+        "title": "[Work_Item] Denote provider entities represented in Billing Account and Sub Account",
+        "type": "issue"
+    },
+    {
+        "number": 316,
+        "title": "SKU description",
+        "type": "issue"
+    },
+    {
+        "number": 315,
+        "title": "SKU categorization columns",
+        "type": "issue"
+    },
+    {
+        "number": 314,
+        "title": "[Work_Item] Clarify definition of SKU ID",
+        "type": "issue"
+    },
+    {
+        "number": 313,
+        "title": "Provider SKU size ",
+        "type": "issue"
+    },
+    {
+        "number": 312,
+        "title": "[Proposal] SKU tier",
+        "type": "issue"
+    },
+    {
+        "number": 311,
+        "title": "[Proposal] Bring your own license",
+        "type": "issue"
+    },
+    {
+        "number": 310,
+        "title": "[Proposal] Add ability to uniquely identify all discounts",
+        "type": "issue"
+    },
+    {
+        "number": 309,
+        "title": "Change all references to \"commitment-based discounts\" to \"commitment discounts\"",
+        "type": "issue"
+    },
+    {
+        "number": 308,
+        "title": "[Proposal] PricingSubcategory to describe the pricing model more precisely",
+        "type": "issue"
+    },
+    {
+        "number": 307,
+        "title": "[Proposal] Clarity of ChargeDescription",
+        "type": "issue"
+    },
+    {
+        "number": 306,
+        "title": "[Proposal] Confusing information hierarchy for usage and commitment discounts",
+        "type": "issue"
+    },
+    {
+        "number": 305,
+        "title": "[Proposal] \"Other\" Charge Subcategory for usage should not be the default",
+        "type": "issue"
+    },
+    {
+        "number": 304,
+        "title": "[Proposal] Region display name vs. ID",
+        "type": "issue"
+    },
+    {
+        "number": 303,
+        "title": "[Proposal] Handle when SKU region is different from resource region",
+        "type": "issue"
+    },
+    {
+        "number": 302,
+        "title": "[Proposal] Invoice ID column",
+        "type": "issue"
+    },
+    {
+        "number": 301,
+        "title": "Need a way to allocate based on resource hierarchy",
+        "type": "issue"
+    },
+    {
+        "number": 300,
+        "title": "[Proposal] \"Billing Account\" term and description confusion",
+        "type": "issue"
+    },
+    {
+        "number": 299,
+        "title": "Invoice Issuer concerns",
+        "type": "issue"
+    },
+    {
+        "number": 298,
+        "title": "Commitment ID must enable 2 outcomes for practitioners",
+        "type": "issue"
+    },
+    {
+        "number": 297,
+        "title": "Should AZ be a required column?",
+        "type": "issue"
+    },
+    {
+        "number": 296,
+        "title": "Is FOCUS expansive across all billing data?",
+        "type": "issue"
+    },
+    {
+        "number": 295,
+        "title": "Commitment Discount Type should be marked as required",
+        "type": "issue"
+    },
+    {
+        "number": 294,
+        "title": "Review the UsageQuantity metric",
+        "type": "issue"
+    },
+    {
+        "number": 293,
+        "title": "Review the PricingQuantity metric",
+        "type": "issue"
+    },
+    {
+        "number": 262,
+        "title": "Update Glossary with 1.0 terminology",
+        "type": "issue"
+    },
+    {
+        "number": 257,
+        "title": "FOCUS Principles Update",
+        "type": "issue"
+    },
+    {
+        "number": 249,
+        "title": "Effective Cost metric review",
+        "type": "issue"
+    },
+    {
+        "number": 243,
+        "title": "Create a SKU Price ID dimension",
+        "type": "issue"
+    },
+    {
+        "number": 242,
+        "title": "Create a SKU ID Dimension",
+        "type": "issue"
+    },
+    {
+        "number": 241,
+        "title": "CommitmentDiscountType column",
+        "type": "issue"
+    },
+    {
+        "number": 237,
+        "title": "Create a Negotiated Cost metric",
+        "type": "issue"
+    },
+    {
+        "number": 232,
+        "title": "Review the BilledCost metric",
+        "type": "issue"
+    },
+    {
+        "number": 231,
+        "title": "Review the ListUnitPrice metric",
+        "type": "issue"
+    },
+    {
+        "number": 226,
+        "title": "Create a Tags dimension",
+        "type": "issue"
+    },
+    {
+        "number": 223,
+        "title": "Adjustment Type column",
+        "type": "issue"
+    },
+    {
+        "number": 220,
+        "title": "Create a ChargeDescription dimension",
+        "type": "issue"
+    },
+    {
+        "number": 216,
+        "title": "CommitmentDiscountPlan column",
+        "type": "issue"
+    },
+    {
+        "number": 215,
+        "title": "Data Frequency",
+        "type": "issue"
+    },
+    {
+        "number": 190,
+        "title": "Numeric Format Attribute",
+        "type": "issue"
+    },
+    {
+        "number": 185,
+        "title": "Create a Tag Attribute definition",
+        "type": "issue"
+    },
+    {
+        "number": 183,
+        "title": "DiscountDetails column",
+        "type": "issue"
+    },
+    {
+        "number": 182,
+        "title": "Define a Usage Quantity Dimension ",
+        "type": "issue"
+    },
+    {
+        "number": 181,
+        "title": "Define a Usage Unit Dimension",
+        "type": "issue"
+    },
+    {
+        "number": 177,
+        "title": "Data Recency",
+        "type": "issue"
+    },
+    {
+        "number": 174,
+        "title": "Create a List Cost metric",
+        "type": "issue"
+    },
+    {
+        "number": 172,
+        "title": "Create a ResourceType dimension",
+        "type": "issue"
+    },
+    {
+        "number": 169,
+        "title": "Create a Pricing Unit dimension",
+        "type": "issue"
+    },
+    {
+        "number": 165,
+        "title": "Create a Quantity In Pricing Unit metric",
+        "type": "issue"
+    },
+    {
+        "number": 164,
+        "title": "Create a Negotiated Unit Price metric",
+        "type": "issue"
+    },
+    {
+        "number": 162,
+        "title": "FOCUS v1.0 Discounts Execution Plan",
+        "type": "issue"
+    },
+    {
+        "number": 161,
+        "title": "PricingModel column",
+        "type": "issue"
+    },
+    {
+        "number": 160,
+        "title": "Discount types appendix",
+        "type": "issue"
+    },
+    {
+        "number": 159,
+        "title": "Commitment-based discounts appendix",
+        "type": "issue"
+    },
+    {
+        "number": 158,
+        "title": "Interruptible workload handling",
+        "type": "issue"
+    },
+    {
+        "number": 157,
+        "title": "Amortization handling attribute",
+        "type": "issue"
+    },
+    {
+        "number": 156,
+        "title": "CommitmentPeriod column",
+        "type": "issue"
+    },
+    {
+        "number": 155,
+        "title": "SkuTier column",
+        "type": "issue"
+    },
+    {
+        "number": 154,
+        "title": "ChargeFrequency column",
+        "type": "issue"
+    },
+    {
+        "number": 153,
+        "title": "SKU term",
+        "type": "issue"
+    },
+    {
+        "number": 152,
+        "title": "CommitmentUtilization column",
+        "type": "issue"
+    },
+    {
+        "number": 151,
+        "title": "CommitmentDiscountType column",
+        "type": "issue"
+    },
+    {
+        "number": 150,
+        "title": "CommitmentName column",
+        "type": "issue"
+    },
+    {
+        "number": 149,
+        "title": "CommitmentId column",
+        "type": "issue"
+    },
+    {
+        "number": 148,
+        "title": "Convert SaaS HS tasks to Github tasks",
+        "type": "issue"
+    },
+    {
+        "number": 147,
+        "title": "ChargeType: Difference between what fits in Usage vs Adjustment for discounts",
+        "type": "issue"
+    },
+    {
+        "number": 146,
+        "title": "Create a Billed Unit Price metric",
+        "type": "issue"
+    },
+    {
+        "number": 145,
+        "title": "Create a List Unit Price metric",
+        "type": "issue"
+    },
+    {
+        "number": 142,
+        "title": "Build FOCUS Glossary for v0.5 items",
+        "type": "issue"
+    },
+    {
+        "number": 141,
+        "title": "[Proposal] Add 'On Premises Private Cloud' ServiceCategory",
+        "type": "issue"
+    },
+    {
+        "number": 140,
+        "title": "[Proposal] Add Support to ServiceCategory ",
+        "type": "issue"
+    },
+    {
+        "number": 139,
+        "title": "[Proposal] Rename all column ids to snake_case_naming_convention ",
+        "type": "issue"
+    },
+    {
+        "number": 138,
+        "title": "[Proposal] Provide mapping of native values of all cloud providers to the Focus dimensions",
+        "type": "issue"
+    },
+    {
+        "number": 135,
+        "title": "Correct spelling in contributors section",
+        "type": "issue"
+    },
+    {
+        "number": 131,
+        "title": "Fix broken links in HTML version of the spec",
+        "type": "issue"
+    },
+    {
+        "number": 129,
+        "title": "Support multiple version options for each branch",
+        "type": "issue"
+    },
+    {
+        "number": 128,
+        "title": "Sprint 5 cleanup tasks",
+        "type": "issue"
+    },
+    {
+        "number": 126,
+        "title": "Handle all the scenarios for commitment discounts",
+        "type": "issue"
+    },
+    {
+        "number": 125,
+        "title": "Revisit the description for ServiceName",
+        "type": "issue"
+    },
+    {
+        "number": 124,
+        "title": "Amortization Approach Specified in Attributes",
+        "type": "issue"
+    },
+    {
+        "number": 114,
+        "title": "Sprint 4 content cleanup tasks",
+        "type": "issue"
+    },
+    {
+        "number": 107,
+        "title": "Create a Billing Period dimension",
+        "type": "issue"
+    },
+    {
+        "number": 106,
+        "title": "Enable branch builds",
+        "type": "issue"
+    },
+    {
+        "number": 105,
+        "title": "Should names have a default value?",
+        "type": "issue"
+    },
+    {
+        "number": 104,
+        "title": "Consistent casing for provider-specified values",
+        "type": "issue"
+    },
+    {
+        "number": 102,
+        "title": "[Proposal] Add a dimensions for grouping billing accounts",
+        "type": "issue"
+    },
+    {
+        "number": 95,
+        "title": "Attribute: Duplicating data rows",
+        "type": "issue"
+    },
+    {
+        "number": 94,
+        "title": "Attribute: Data granularity for non-usage cost",
+        "type": "issue"
+    },
+    {
+        "number": 93,
+        "title": "Create a zone dimension",
+        "type": "issue"
+    },
+    {
+        "number": 92,
+        "title": "Create a Billed Currency Dimension",
+        "type": "issue"
+    },
+    {
+        "number": 91,
+        "title": "Create an appendix for grouping of resources and/or services (Billing Account and Sub/Resource Account)",
+        "type": "issue"
+    },
+    {
+        "number": 89,
+        "title": "HTML and PDF improvement candidates",
+        "type": "issue"
+    },
+    {
+        "number": 88,
+        "title": "Should we add a (Region) Time zone dimension?",
+        "type": "issue"
+    },
+    {
+        "number": 87,
+        "title": "Define the casing requirements for IDs and display names",
+        "type": "issue"
+    },
+    {
+        "number": 84,
+        "title": "Issue with truncated last line in builds on OSX",
+        "type": "issue"
+    },
+    {
+        "number": 83,
+        "title": "Repository maintenance task",
+        "type": "issue"
+    },
+    {
+        "number": 82,
+        "title": "Sprint 3 Content cleanup",
+        "type": "issue"
+    },
+    {
+        "number": 80,
+        "title": "Increase document content width",
+        "type": "issue"
+    },
+    {
+        "number": 79,
+        "title": "Support watermarks and branch specific includes",
+        "type": "issue"
+    },
+    {
+        "number": 78,
+        "title": "Modeling discounts and credits in a way that makes sense to all users of billing data",
+        "type": "issue"
+    },
+    {
+        "number": 77,
+        "title": "Attribute: Define how numeric fields (measures/metrics) should be defined in the spec",
+        "type": "issue"
+    },
+    {
+        "number": 76,
+        "title": "Attribute: Date / Time / Time zone / Location format",
+        "type": "issue"
+    },
+    {
+        "number": 75,
+        "title": "Attribute: Currency code format",
+        "type": "issue"
+    },
+    {
+        "number": 74,
+        "title": "Column naming convention should specify how columns that have both a name/id should be named",
+        "type": "issue"
+    },
+    {
+        "number": 73,
+        "title": "[Proposal] Create Source, Destination, and LocationType Dimensions for all Data Transfer Costs",
+        "type": "issue"
+    },
+    {
+        "number": 72,
+        "title": "[Work_Item] Facilitate shared cost allocation as calculated by the provider",
+        "type": "issue"
+    },
+    {
+        "number": 71,
+        "title": "[Proposal] Create a ServiceCategory Dimension",
+        "type": "issue"
+    },
+    {
+        "number": 70,
+        "title": "[Proposal] Create a ServiceCategory Dimesnion",
+        "type": "issue"
+    },
+    {
+        "number": 68,
+        "title": "Add custom filter for smart characters",
+        "type": "issue"
+    },
+    {
+        "number": 67,
+        "title": "[Proposal] Attribute: Datatype for Decimal/Float values in the data",
+        "type": "issue"
+    },
+    {
+        "number": 66,
+        "title": "Allow HTTP output to be generated",
+        "type": "issue"
+    },
+    {
+        "number": 57,
+        "title": "Create mappings for Charge Type normalized dimension for major providers",
+        "type": "issue"
+    },
+    {
+        "number": 55,
+        "title": "Create an appendix for the origin of cost data (Provider, Publisher, Invoice Entity)",
+        "type": "issue"
+    },
+    {
+        "number": 53,
+        "title": "Allow builds on maintenance/** branches",
+        "type": "issue"
+    },
+    {
+        "number": 52,
+        "title": "Update spec build to compress the verbose spacing and long table of contents",
+        "type": "issue"
+    },
+    {
+        "number": 50,
+        "title": "Automate the population of dimensions being added to the mdpp templates",
+        "type": "issue"
+    },
+    {
+        "number": 45,
+        "title": "Correct broken links to the specification inside the specification",
+        "type": "issue"
+    },
+    {
+        "number": 39,
+        "title": "Create an Amortized Cost metric",
+        "type": "issue"
+    },
+    {
+        "number": 38,
+        "title": "Create a Billed Cost metric",
+        "type": "issue"
+    },
+    {
+        "number": 37,
+        "title": "Write abstract / conformance / introduction and other necessary sections for the specification",
+        "type": "issue"
+    },
+    {
+        "number": 36,
+        "title": "Build a library of FinOps capabilities that can be solved by FOCUS v0.5 data",
+        "type": "issue"
+    },
+    {
+        "number": 35,
+        "title": "Attribute: Null handling for columns",
+        "type": "issue"
+    },
+    {
+        "number": 34,
+        "title": "Update build system to provide better markdown management",
+        "type": "issue"
+    },
+    {
+        "number": 32,
+        "title": "Incorporating v0.5 content into the standard doc in cohesive structure / language",
+        "type": "issue"
+    },
+    {
+        "number": 31,
+        "title": "Create an Invoicing Entity dimension",
+        "type": "issue"
+    },
+    {
+        "number": 30,
+        "title": "Create a Publisher dimension",
+        "type": "issue"
+    },
+    {
+        "number": 29,
+        "title": "Attribute: Data granularity for usage cost",
+        "type": "issue"
+    },
+    {
+        "number": 28,
+        "title": "Attribute: Column name spacing convention",
+        "type": "issue"
+    },
+    {
+        "number": 27,
+        "title": "How should we write data validation criteria?",
+        "type": "issue"
+    },
+    {
+        "number": 26,
+        "title": "Should billing data come with a schema document that provides information about the columns data types/lengths?",
+        "type": "issue"
+    },
+    {
+        "number": 25,
+        "title": "Should the specification reference a higher-level data dictionary for cloud / infra terminology?",
+        "type": "issue"
+    },
+    {
+        "number": 24,
+        "title": "How do we write the acronym Id for various dimensions where necessary",
+        "type": "issue"
+    },
+    {
+        "number": 23,
+        "title": "Attribute: Create a convention for a column naming scheme",
+        "type": "issue"
+    },
+    {
+        "number": 22,
+        "title": "How do we support localization of column names and normalized value sets",
+        "type": "issue"
+    },
+    {
+        "number": 21,
+        "title": "Is there a particular target audience for the specification or a medium for consumption?",
+        "type": "issue"
+    },
+    {
+        "number": 20,
+        "title": "Create a Charge Period dimension",
+        "type": "issue"
+    },
+    {
+        "number": 19,
+        "title": "Create a Sub Account ID dimension",
+        "type": "issue"
+    },
+    {
+        "number": 18,
+        "title": "Create a Sub Account Name dimension",
+        "type": "issue"
+    },
+    {
+        "number": 17,
+        "title": "Create a Billing Account ID dimension",
+        "type": "issue"
+    },
+    {
+        "number": 16,
+        "title": "Create a Billing Account Name dimension",
+        "type": "issue"
+    },
+    {
+        "number": 15,
+        "title": "Generate Service Category normalized values",
+        "type": "issue"
+    },
+    {
+        "number": 14,
+        "title": "Create a Service Category normalized dimension",
+        "type": "issue"
+    },
+    {
+        "number": 13,
+        "title": "Generate Publisher Type normalized values",
+        "type": "issue"
+    },
+    {
+        "number": 12,
+        "title": "Create a Publisher Type normalized dimension",
+        "type": "issue"
+    },
+    {
+        "number": 11,
+        "title": "Create a Provider dimension",
+        "type": "issue"
+    },
+    {
+        "number": 10,
+        "title": "Create a Provider Service Name dimension",
+        "type": "issue"
+    },
+    {
+        "number": 9,
+        "title": "Create a Provider Region dimension",
+        "type": "issue"
+    },
+    {
+        "number": 8,
+        "title": "Create a Provider Charge Type dimension",
+        "type": "issue"
+    },
+    {
+        "number": 7,
+        "title": "Create a Pricing model dimension",
+        "type": "issue"
+    },
+    {
+        "number": 6,
+        "title": "Create a Provider Usage Type dimension",
+        "type": "issue"
+    },
+    {
+        "number": 5,
+        "title": "Create a Resource ID dimension",
+        "type": "issue"
+    },
+    {
+        "number": 4,
+        "title": "Create a Resource Name dimension",
+        "type": "issue"
+    },
+    {
+        "number": 664,
+        "title": "FOCUS #557: Preview - Refinement of FOCUS Columns Normative Requirements",
+        "type": "pr"
+        },
+        {
+        "number": 661,
+        "title": "[EDITORIAL] update Editorial Guidelines file name",
+        "type": "pr"
+        },
+        {
+        "number": 660,
+        "title": "[EDITORIAL] Update release planning page for 1.2",
+        "type": "pr"
+        },
+        {
+        "number": 659,
+        "title": "[EDITORIAL] EffectiveCost: convert normative statements into bullet p…",
+        "type": "pr"
+        },
+        {
+        "number": 658,
+        "title": "[EDITORIAL] SkuId: convert normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 657,
+        "title": "[EDITORIAL] PricingUnit: convert normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 656,
+        "title": "[EDITORIAL] PricingQuantity: convert normative statements into bullet…",
+        "type": "pr"
+        },
+        {
+        "number": 655,
+        "title": "[EDITORIAL] ListUnitPrice: convert normative statements into bullet p…",
+        "type": "pr"
+        },
+        {
+        "number": 654,
+        "title": "[EDITORIAL] ListCost: convert normative statement into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 653,
+        "title": "[EDITORIAL] ContractedUnitPrice: convert normative statements into bu…",
+        "type": "pr"
+        },
+        {
+        "number": 652,
+        "title": "[EDITORIAL] ContractedCost: change normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 651,
+        "title": "[EDITORIAL] ChargeCategory: convert normative statement into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 646,
+        "title": "Corrected version from 1.0 to 1.1 for release Issue 644",
+        "type": "pr"
+        },
+        {
+        "number": 645,
+        "title": "Corrected version from 1.0 to 1.1 for release Issue 644",
+        "type": "pr"
+        },
+        {
+        "number": 642,
+        "title": "[ADMIN] Candidate v1.1 WG Approval & SC Ratification",
+        "type": "pr"
+        },
+        {
+        "number": 633,
+        "title": "[Editorial] SubAccountName: convert normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 632,
+        "title": "[Editorial] SubAccountID: convert normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 631,
+        "title": "[Editorial] ServiceName: convert normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 630,
+        "title": "[Edititorial] ServiceCategory: convert the normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 629,
+        "title": "[Editorial] ResourceType: convert the normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 628,
+        "title": "[Editorial] ResourceName: convert the normative statement into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 627,
+        "title": "[Editorial] ResourceID: convert the normative statement into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 626,
+        "title": "[Editorial] RegionName: convert the normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 625,
+        "title": "[Editorial] Regionid: covert the normative statements into bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 624,
+        "title": "[Editorial] Provider: convert the normative statements into bullet point",
+        "type": "pr"
+        },
+        {
+        "number": 623,
+        "title": "[Editorial ] invoiceIssuerName: convert normative statements in bullet points",
+        "type": "pr"
+        },
+        {
+        "number": 621,
+        "title": "Editorial changes to readme.md and license.txt",
+        "type": "pr"
+        },
+        {
+        "number": 612,
+        "title": "FOCUS #604: Issue templates review",
+        "type": "pr"
+        },
+        {
+        "number": 599,
+        "title": "[ADMIN] Candidate recommendation v1 1",
+        "type": "pr"
+        },
+        {
+        "number": 598,
+        "title": "Have consumedquantity be 0 for unused commitment",
+        "type": "pr"
+        },
+        {
+        "number": 597,
+        "title": "[ADMIN] Update README.md",
+        "type": "pr"
+        },
+        {
+        "number": 596,
+        "title": "[ADMIN] Candidate Recomendation for v1.1",
+        "type": "pr"
+        },
+        {
+        "number": 593,
+        "title": "Editorial changes: using attribute IDs when referencing attributes in normative paragraphs",
+        "type": "pr"
+        },
+        {
+        "number": 592,
+        "title": "Editorial changes - links to FOCUS dataset glossary term",
+        "type": "pr"
+        },
+        {
+        "number": 591,
+        "title": "Editorial changes to columns and glossary terms ordering",
+        "type": "pr"
+        },
+        {
+        "number": 590,
+        "title": "Editorial changes to appendix - links to columns and glossary terms",
+        "type": "pr"
+        },
+        {
+        "number": 589,
+        "title": "Editorial changes to columns names and ids (part 2)",
+        "type": "pr"
+        },
+        {
+        "number": 588,
+        "title": "Editorial changes to columns names and ids",
+        "type": "pr"
+        },
+        {
+        "number": 587,
+        "title": "New GitHub Issue template for Work Item Creation",
+        "type": "pr"
+        },
+        {
+        "number": 585,
+        "title": "Revert \"FOCUS #532: PricingCategory update - Classify commitment discount purchase records as Standard instead of Committed\"",
+        "type": "pr"
+        },
+        {
+        "number": 584,
+        "title": "[EDITORIAL] Add Release v1.2 timeline",
+        "type": "pr"
+        },
+        {
+        "number": 583,
+        "title": "[EDITORIAL] Update  the list of FOCUS release v1.1 contributors",
+        "type": "pr"
+        },
+        {
+        "number": 582,
+        "title": "Editorial updates on column IDs and Display Names",
+        "type": "pr"
+        },
+        {
+        "number": 581,
+        "title": "FOCUS-580: remove use case library and link to the FOCUS website",
+        "type": "pr"
+        },
+        {
+        "number": 579,
+        "title": "[EDITORIAL - Alternate version] Mark commitment discount purchase's pricing_category as \"Standard\"",
+        "type": "pr"
+        },
+        {
+        "number": 577,
+        "title": "Adding 'Commitment Discount Visibility' to v1.1 Release Planning",
+        "type": "pr"
+        },
+        {
+        "number": 576,
+        "title": "Editorial updates to CommitmentDiscountType",
+        "type": "pr"
+        },
+        {
+        "number": 575,
+        "title": "Editorial updates to CommitmentDiscountStatus",
+        "type": "pr"
+        },
+        {
+        "number": 574,
+        "title": "Editorial update to CommitmentDiscountName",
+        "type": "pr"
+        },
+        {
+        "number": 573,
+        "title": "Editorial udpates to CommitmentDiscountId",
+        "type": "pr"
+        },
+        {
+        "number": 572,
+        "title": "Editorial updates to Commitmentdiscountcategory",
+        "type": "pr"
+        },
+        {
+        "number": 571,
+        "title": "Editorial updates to ChargePeriodStart",
+        "type": "pr"
+        },
+        {
+        "number": 570,
+        "title": "Editorial update to ChargePeriodEnd",
+        "type": "pr"
+        },
+        {
+        "number": 569,
+        "title": "Editorial changes to ChargeFrequency",
+        "type": "pr"
+        },
+        {
+        "number": 568,
+        "title": "Editorial update to ChargeDescription",
+        "type": "pr"
+        },
+        {
+        "number": 567,
+        "title": "Editorial updates BillingPeriodStart",
+        "type": "pr"
+        },
+        {
+        "number": 566,
+        "title": "Editorial update BillingPeriodEnd",
+        "type": "pr"
+        },
+        {
+        "number": 565,
+        "title": "Editorial update billingcurrency",
+        "type": "pr"
+        },
+        {
+        "number": 564,
+        "title": "Editorial update to billingaccountname",
+        "type": "pr"
+        },
+        {
+        "number": 563,
+        "title": "Editorial update to billingaccountid",
+        "type": "pr"
+        },
+        {
+        "number": 562,
+        "title": "Editorial update to billedcost",
+        "type": "pr"
+        },
+        {
+        "number": 561,
+        "title": "Editorial updates to availability zone",
+        "type": "pr"
+        },
+        {
+        "number": 560,
+        "title": "Language inconsistency fixes",
+        "type": "pr"
+        },
+        {
+        "number": 559,
+        "title": "Adding Usability Constraints for Aggregation",
+        "type": "pr"
+        },
+        {
+        "number": 558,
+        "title": "Repaired the table format in supporting content for SubaccountID",
+        "type": "pr"
+        },
+        {
+        "number": 555,
+        "title": "FOCUS #547-p2: Consistency Review - PricingQuantity and PricingUnit",
+        "type": "pr"
+        },
+        {
+        "number": 554,
+        "title": "FOCUS #547-2: Consistency Review - PricingQuantity and PricingUnit",
+        "type": "pr"
+        },
+        {
+        "number": 553,
+        "title": "Update feedback use case",
+        "type": "pr"
+        },
+        {
+        "number": 552,
+        "title": "Service Subcategory language inconsistency fixes",
+        "type": "pr"
+        },
+        {
+        "number": 550,
+        "title": "Commitment Discount {Quantity,Unit} - Consistency review edits",
+        "type": "pr"
+        },
+        {
+        "number": 549,
+        "title": "FOCUS #547: Consistency Review - Standardize column specs for correction charges",
+        "type": "pr"
+        },
+        {
+        "number": 548,
+        "title": "FOCUS 1.1 changelog updates",
+        "type": "pr"
+        },
+        {
+        "number": 545,
+        "title": "[Editorial] Normalize all instances of commitment discount flexibility as \"commitment discount flexibility\"",
+        "type": "pr"
+        },
+        {
+        "number": 544,
+        "title": "[EDITORIAL] Fix single-word glossary term italics",
+        "type": "pr"
+        },
+        {
+        "number": 543,
+        "title": "Cleanup Metadata PR to fix content bugs/errors, broken links, reduce nesting, formatting",
+        "type": "pr"
+        },
+        {
+        "number": 541,
+        "title": "Add 1 missing space between \"commitment discount\" and \"identified\"",
+        "type": "pr"
+        },
+        {
+        "number": 539,
+        "title": "Fix capacityreservation*, sku* build issues",
+        "type": "pr"
+        },
+        {
+        "number": 538,
+        "title": "Fix CDStatus column reference",
+        "type": "pr"
+        },
+        {
+        "number": 536,
+        "title": "Update EDITORIAL_GUIDELINES.md",
+        "type": "pr"
+        },
+        {
+        "number": 535,
+        "title": "Commitment Flexibility Appendix",
+        "type": "pr"
+        },
+        {
+        "number": 533,
+        "title": "FOCUS #532: PricingCategory update - Classify commitment discount purchase records as Standard instead of Committed",
+        "type": "pr"
+        },
+        {
+        "number": 530,
+        "title": "#503a - Update SkuPriceId per SkuPriceDetails",
+        "type": "pr"
+        },
+        {
+        "number": 528,
+        "title": "Commitment Discount Appendix",
+        "type": "pr"
+        },
+        {
+        "number": 527,
+        "title": "Remove incorrect mention of 'Charge Subcategory' and correct with 'Charge Category'",
+        "type": "pr"
+        },
+        {
+        "number": 524,
+        "title": "Rename all mentions on \"commitment-based discount\" (or similar) to \"commitment discount\" (or similar) to match updated iteration of term in FinOps Terminology page.",
+        "type": "pr"
+        },
+        {
+        "number": 523,
+        "title": "Capacity Reservation Proposal for ID & Status",
+        "type": "pr"
+        },
+        {
+        "number": 522,
+        "title": "Making changes to the example stucture so that the PDF will generate.…",
+        "type": "pr"
+        },
+        {
+        "number": 521,
+        "title": "332 metadata provider version",
+        "type": "pr"
+        },
+        {
+        "number": 519,
+        "title": "FOCUS #404: Service Subcategory",
+        "type": "pr"
+        },
+        {
+        "number": 516,
+        "title": "Dedicated SKU column (for issue #495)",
+        "type": "pr"
+        },
+        {
+        "number": 515,
+        "title": "How to represent ODCRs in FOCUS (Alternate)",
+        "type": "pr"
+        },
+        {
+        "number": 514,
+        "title": "Improvements To Metadata",
+        "type": "pr"
+        },
+        {
+        "number": 513,
+        "title": "Provider Version ",
+        "type": "pr"
+        },
+        {
+        "number": 512,
+        "title": "Cleaning up the Metadata specs format",
+        "type": "pr"
+        },
+        {
+        "number": 509,
+        "title": "How to represent ODCRs in FOCUS",
+        "type": "pr"
+        },
+        {
+        "number": 507,
+        "title": "FOCUS #492: ConsumedQuantity and ConsumedUnit and Unused commitment",
+        "type": "pr"
+        },
+        {
+        "number": 506,
+        "title": "[EDITORIAL] Reclassify ConsumedUnit as Dimension instead of Metric",
+        "type": "pr"
+        },
+        {
+        "number": 505,
+        "title": "FOCUS #491: ChargeClass - 'Corrections' as a result of late arriving charge records",
+        "type": "pr"
+        },
+        {
+        "number": 504,
+        "title": "Proposal for FOCUS v1.1 Scope",
+        "type": "pr"
+        },
+        {
+        "number": 503,
+        "title": "FOCUS #497: SkuPriceDetails column",
+        "type": "pr"
+        },
+        {
+        "number": 501,
+        "title": "[ADMIN] Add editorial guidelines document",
+        "type": "pr"
+        },
+        {
+        "number": 500,
+        "title": "Replace 'SKU' with 'Stock Keeping Unit' for clarity in the glossary",
+        "type": "pr"
+        },
+        {
+        "number": 499,
+        "title": "[ADMIN] Editorial guidelines",
+        "type": "pr"
+        },
+        {
+        "number": 490,
+        "title": "[REPO] Enhance Issue Templates",
+        "type": "pr"
+        },
+        {
+        "number": 489,
+        "title": "[ADMIN] Candidate recommendation v1.0 into main",
+        "type": "pr"
+        },
+        {
+        "number": 488,
+        "title": "[ADMIN] Candidate recommendation 1 0 preview into Main",
+        "type": "pr"
+        },
+        {
+        "number": 487,
+        "title": "[ADMIN] Ratification of v1.0-preview by FOCUS Steering Committee",
+        "type": "pr"
+        },
+        {
+        "number": 486,
+        "title": "[ADMIN] Ratification of v1.0 by FOCUS Steering Committee",
+        "type": "pr"
+        },
+        {
+        "number": 485,
+        "title": "[ADMIN] [EDITORIAL] Resolve mistake with Patent Mode",
+        "type": "pr"
+        },
+        {
+        "number": 484,
+        "title": "[ADMIN] [EDITORIAL] Editorial changes to 1.0-cr",
+        "type": "pr"
+        },
+        {
+        "number": 483,
+        "title": "[EDITORIAL] Update billingperiodend.md",
+        "type": "pr"
+        },
+        {
+        "number": 481,
+        "title": "Rename CommitmentDiscountStatus supporting content file",
+        "type": "pr"
+        },
+        {
+        "number": 480,
+        "title": "[ADMIN]update reference to patent policy 4 W3C mode as stated in the FOCUS Membership doc.",
+        "type": "pr"
+        },
+        {
+        "number": 479,
+        "title": "300 proposal billing account term and description confusion",
+        "type": "pr"
+        },
+        {
+        "number": 478,
+        "title": "Update scope and interim consistency review milestones, and scope top…",
+        "type": "pr"
+        },
+        {
+        "number": 474,
+        "title": "FOCUS dataset consistency review",
+        "type": "pr"
+        },
+        {
+        "number": 471,
+        "title": "Update glossary - remove duplicate entry",
+        "type": "pr"
+        },
+        {
+        "number": 470,
+        "title": "Fix changelog commit history link",
+        "type": "pr"
+        },
+        {
+        "number": 469,
+        "title": "[EDITORIAL] Column doc link formatting fix",
+        "type": "pr"
+        },
+        {
+        "number": 468,
+        "title": "[ADMIN] remove specific dates for 2025 releases",
+        "type": "pr"
+        },
+        {
+        "number": 463,
+        "title": "[PROCESS] update release planning content",
+        "type": "pr"
+        },
+        {
+        "number": 461,
+        "title": "[EDITORIAL] Correct a typographical error in the ChargeCategory.",
+        "type": "pr"
+        },
+        {
+        "number": 460,
+        "title": "[EDITORIAL] Update columns.mdpp",
+        "type": "pr"
+        },
+        {
+        "number": 459,
+        "title": "[EDITORIAL] v1.0 Correct typo in consumedunit.md",
+        "type": "pr"
+        },
+        {
+        "number": 458,
+        "title": "Typo",
+        "type": "pr"
+        },
+        {
+        "number": 457,
+        "title": "v1.0 Candidate Recommendation Release",
+        "type": "pr"
+        },
+        {
+        "number": 456,
+        "title": "Version update for 1.0 Release",
+        "type": "pr"
+        },
+        {
+        "number": 455,
+        "title": "[EDITORIAL] Update changelog",
+        "type": "pr"
+        },
+        {
+        "number": 454,
+        "title": "Update Use Case examples with new column names #452",
+        "type": "pr"
+        },
+        {
+        "number": 453,
+        "title": "[ADMIN] Add steering, contributors and maintainers who contributed to FOCUS",
+        "type": "pr"
+        },
+        {
+        "number": 451,
+        "title": "Publication release of v0.5",
+        "type": "pr"
+        },
+        {
+        "number": 450,
+        "title": "Rename branch candidate_release to candidate_recommendation",
+        "type": "pr"
+        },
+        {
+        "number": 448,
+        "title": "Thanking Potato for its contribution.",
+        "type": "pr"
+        },
+        {
+        "number": 447,
+        "title": "Correction of term sponsored with supported",
+        "type": "pr"
+        },
+        {
+        "number": 445,
+        "title": "[ADMIN] update release planning based on the Consistency Review delay.",
+        "type": "pr"
+        },
+        {
+        "number": 444,
+        "title": "#441 Clarifications for various Commitment discount scenarios",
+        "type": "pr"
+        },
+        {
+        "number": 443,
+        "title": "#436 Add helpful text for identifying records that need to be burned-down",
+        "type": "pr"
+        },
+        {
+        "number": 442,
+        "title": "#441 ChargePeriod Start and End spec change",
+        "type": "pr"
+        },
+        {
+        "number": 439,
+        "title": "Fix broken builds reported in #438",
+        "type": "pr"
+        },
+        {
+        "number": 435,
+        "title": "FOCUS #425: ChargeClass (Path 2) - spec updates and associated columns adjustments",
+        "type": "pr"
+        },
+        {
+        "number": 434,
+        "title": "#409 Path 3 - ActualUnit/Quantity for broader applications  ",
+        "type": "pr"
+        },
+        {
+        "number": 433,
+        "title": "426-consistency-review-chargecategory-definition-and-description-review",
+        "type": "pr"
+        },
+        {
+        "number": 432,
+        "title": "FOCUS #425: ChargeClass (Path 1) - spec updates and associated columns adjustments ",
+        "type": "pr"
+        },
+        {
+        "number": 431,
+        "title": "FOCUS #430: EffectiveCost spec change - addressing purchases paid to cover future eligible charges",
+        "type": "pr"
+        },
+        {
+        "number": 429,
+        "title": "Update contributors.md",
+        "type": "pr"
+        },
+        {
+        "number": 428,
+        "title": "424: Description updates on when to exclude to avoid double counting List/Contracted",
+        "type": "pr"
+        },
+        {
+        "number": 427,
+        "title": "Update contributors.md",
+        "type": "pr"
+        },
+        {
+        "number": 422,
+        "title": "'Original' Charge Class update (follow on from PR #410)",
+        "type": "pr"
+        },
+        {
+        "number": 421,
+        "title": "Clarify NULL handling for placeholders",
+        "type": "pr"
+        },
+        {
+        "number": 420,
+        "title": "v1.1: Added clarity on what we mean by service",
+        "type": "pr"
+        },
+        {
+        "number": 419,
+        "title": "#409 Path 2 - Usage Unit/Quantity for broader applications",
+        "type": "pr"
+        },
+        {
+        "number": 418,
+        "title": "#409 Path 1 - Usage Unit/Quantity restricted to usage charges and renamed to Consumed Unit/Quantity",
+        "type": "pr"
+        },
+        {
+        "number": 416,
+        "title": "Update naming and ordering attribute",
+        "type": "pr"
+        },
+        {
+        "number": 415,
+        "title": "Updated versioning/id approach to metadata",
+        "type": "pr"
+        },
+        {
+        "number": 413,
+        "title": "FOCUS #366: SkuId, SkuPriceId, and Pricing-related columns review due to ChargeCategory and ChargeClass cleanup",
+        "type": "pr"
+        },
+        {
+        "number": 412,
+        "title": "v1.x: Adding % derived charge identification to Charge Class",
+        "type": "pr"
+        },
+        {
+        "number": 410,
+        "title": "FOCUS #330: Update chargeclass value from \"Regular\" to \"Standard\"",
+        "type": "pr"
+        },
+        {
+        "number": 408,
+        "title": "[ADMIN] adjustments to the timeline based on where we are",
+        "type": "pr"
+        },
+        {
+        "number": 407,
+        "title": "FOCUS #406 (v1.1 draft): Extend CommitmentDiscountCategory column to categorize on-demand row eligibility for commitments",
+        "type": "pr"
+        },
+        {
+        "number": 405,
+        "title": "Update and rename column_naming_convention.md to column_naming_and_or…",
+        "type": "pr"
+        },
+        {
+        "number": 403,
+        "title": "v1.1: Update servicecategory.md [Propsed PR for Issue #379]",
+        "type": "pr"
+        },
+        {
+        "number": 402,
+        "title": "FOCUS #330: Replace ChargeSubcategory references after ChargeClass inclusion",
+        "type": "pr"
+        },
+        {
+        "number": 401,
+        "title": "Fixing Simple Structure Metadata",
+        "type": "pr"
+        },
+        {
+        "number": 400,
+        "title": "FOCUS #319: Track (sometimes differing) commitment burndown units separately from consumed quantity/unit columns",
+        "type": "pr"
+        },
+        {
+        "number": 398,
+        "title": "Further specify inclusive/exclusive datetime values for BillingPeriod{Start,End} and ChargePeriod{Start,End}",
+        "type": "pr"
+        },
+        {
+        "number": 396,
+        "title": "FOCUS #104: ConsistencyHandling or StringFormat attribute",
+        "type": "pr"
+        },
+        {
+        "number": 395,
+        "title": "Columns: replace SHOULD with MUST + Condition",
+        "type": "pr"
+        },
+        {
+        "number": 394,
+        "title": "Charge Frequency set to RECOMMENDED",
+        "type": "pr"
+        },
+        {
+        "number": 393,
+        "title": "Add new tier to Feature Level #392",
+        "type": "pr"
+        },
+        {
+        "number": 391,
+        "title": "Update availabilityzone when column no present",
+        "type": "pr"
+        },
+        {
+        "number": 390,
+        "title": "Metadata structure simple",
+        "type": "pr"
+        },
+        {
+        "number": 389,
+        "title": "Focus metadata simplified option for #354",
+        "type": "pr"
+        },
+        {
+        "number": 386,
+        "title": "#385: Update v0.5 references to v1.0",
+        "type": "pr"
+        },
+        {
+        "number": 384,
+        "title": "Fix introduced version references to be accurate",
+        "type": "pr"
+        },
+        {
+        "number": 383,
+        "title": "FOCUS #330: Pricing Category value updates",
+        "type": "pr"
+        },
+        {
+        "number": 382,
+        "title": "FOCUS #330: CommitmentDiscountStatus column",
+        "type": "pr"
+        },
+        {
+        "number": 381,
+        "title": "FOCUS #365: Updated the changelog with all changes",
+        "type": "pr"
+        },
+        {
+        "number": 378,
+        "title": "Moved license details into unique file and updated to match project procedures",
+        "type": "pr"
+        },
+        {
+        "number": 376,
+        "title": "test commit - mfuller",
+        "type": "pr"
+        },
+        {
+        "number": 372,
+        "title": "Clarification and Consensus on Column Requirements",
+        "type": "pr"
+        },
+        {
+        "number": 370,
+        "title": "Expand Essential to support compliance levels",
+        "type": "pr"
+        },
+        {
+        "number": 369,
+        "title": "updateing AZ requirements text",
+        "type": "pr"
+        },
+        {
+        "number": 368,
+        "title": "Clarify what qualifies as a tag and what different types of tags are",
+        "type": "pr"
+        },
+        {
+        "number": 364,
+        "title": "FOCUS #336: Negotiated/Contracted List Unit Price and Cost ",
+        "type": "pr"
+        },
+        {
+        "number": 361,
+        "title": "Update column_naming_convention.md",
+        "type": "pr"
+        },
+        {
+        "number": 360,
+        "title": "354 General Structure for Metadata and Logical sections for metadata vers…",
+        "type": "pr"
+        },
+        {
+        "number": 355,
+        "title": "330 charge category credit refund",
+        "type": "pr"
+        },
+        {
+        "number": 353,
+        "title": "Creating a new dimension Region Name",
+        "type": "pr"
+        },
+        {
+        "number": 352,
+        "title": "Adding Region ID",
+        "type": "pr"
+        },
+        {
+        "number": 350,
+        "title": "#343: EffectiveCost clarification",
+        "type": "pr"
+        },
+        {
+        "number": 349,
+        "title": "Related to Issue #342 - Tag key differentation when a supporting value can or cannot exist.",
+        "type": "pr"
+        },
+        {
+        "number": 348,
+        "title": "[ADMIN] Add Release planning estimated timeline",
+        "type": "pr"
+        },
+        {
+        "number": 347,
+        "title": "[Proposal] - Update chargesubcategory.md",
+        "type": "pr"
+        },
+        {
+        "number": 346,
+        "title": "Update README, add CONTRIBUTING.md",
+        "type": "pr"
+        },
+        {
+        "number": 331,
+        "title": "FOCUS feature level introduction - mandatory / conditional / optional",
+        "type": "pr"
+        },
+        {
+        "number": 329,
+        "title": "Update chargesubcategory.md",
+        "type": "pr"
+        },
+        {
+        "number": 324,
+        "title": "FOCUS #294: PricingQuantity, PricingUnit, UsageQuantity and UsageUnit review",
+        "type": "pr"
+        },
+        {
+        "number": 323,
+        "title": "Numeric columns should not use 0 when no value",
+        "type": "pr"
+        },
+        {
+        "number": 322,
+        "title": "Add missing bracket",
+        "type": "pr"
+        },
+        {
+        "number": 292,
+        "title": "Fedora support",
+        "type": "pr"
+        },
+        {
+        "number": 291,
+        "title": "[ADMIN] Update and rename proposal.md to feedback.yml",
+        "type": "pr"
+        },
+        {
+        "number": 290,
+        "title": "Fix 'Column required' value to 'True' based on column description #295",
+        "type": "pr"
+        },
+        {
+        "number": 289,
+        "title": "Alphabetize contributor list",
+        "type": "pr"
+        },
+        {
+        "number": 288,
+        "title": "PricingSubcategory",
+        "type": "pr"
+        },
+        {
+        "number": 287,
+        "title": "FOCUS #317: BillingAccountType and SubAccountType",
+        "type": "pr"
+        },
+        {
+        "number": 286,
+        "title": "Fix up contributors company names",
+        "type": "pr"
+        },
+        {
+        "number": 285,
+        "title": "Fix \"DataDog\" name to \"Datadog\"",
+        "type": "pr"
+        },
+        {
+        "number": 284,
+        "title": "Kubecost maintainers",
+        "type": "pr"
+        },
+        {
+        "number": 283,
+        "title": "V1.0 Contributor update",
+        "type": "pr"
+        },
+        {
+        "number": 282,
+        "title": "FOCUS v1.0 - preview payload",
+        "type": "pr"
+        },
+        {
+        "number": 281,
+        "title": "Glossary hyperlinks - final merge",
+        "type": "pr"
+        },
+        {
+        "number": 280,
+        "title": "Minor grammar/formatting cleanup around Tags and Charge Description",
+        "type": "pr"
+        },
+        {
+        "number": 279,
+        "title": "test upload kk files",
+        "type": "pr"
+        },
+        {
+        "number": 278,
+        "title": "Markdown conversion of the use case library developed by the FOCUS practitioner group.",
+        "type": "pr"
+        },
+        {
+        "number": 277,
+        "title": "Glossary hyperlinks",
+        "type": "pr"
+        },
+        {
+        "number": 276,
+        "title": "Update skupriceid.md",
+        "type": "pr"
+        },
+        {
+        "number": 275,
+        "title": "Final batch of scrubs (outside of glossary)",
+        "type": "pr"
+        },
+        {
+        "number": 274,
+        "title": "Remove pricing model from wd chargetype",
+        "type": "pr"
+        },
+        {
+        "number": 273,
+        "title": "Fix build errors",
+        "type": "pr"
+        },
+        {
+        "number": 272,
+        "title": "Scrub v1",
+        "type": "pr"
+        },
+        {
+        "number": 271,
+        "title": "DO NOT MERGE: 1.0 Preview branch with all extant PRs squash-merged-in",
+        "type": "pr"
+        },
+        {
+        "number": 270,
+        "title": "Remove pricing measurement unit in working draft - usage quantity.md",
+        "type": "pr"
+        },
+        {
+        "number": 269,
+        "title": "Region should be nullable",
+        "type": "pr"
+        },
+        {
+        "number": 268,
+        "title": "FOCUS #262: Update glossary",
+        "type": "pr"
+        },
+        {
+        "number": 267,
+        "title": "deprecated - update glossary",
+        "type": "pr"
+        },
+        {
+        "number": 266,
+        "title": "FOCUS #266: Fixed a Header Issue blocking CI Builds",
+        "type": "pr"
+        },
+        {
+        "number": 265,
+        "title": "Fix PDF generation build errors",
+        "type": "pr"
+        },
+        {
+        "number": 264,
+        "title": "FOCUS #264 : (Draft) Vendor Prefix Proposal - with registration",
+        "type": "pr"
+        },
+        {
+        "number": 263,
+        "title": "Standardize on \"row\"",
+        "type": "pr"
+        },
+        {
+        "number": 261,
+        "title": "Update resourcetype.md",
+        "type": "pr"
+        },
+        {
+        "number": 260,
+        "title": "Update chargedescription.md",
+        "type": "pr"
+        },
+        {
+        "number": 259,
+        "title": "Update tags.md",
+        "type": "pr"
+        },
+        {
+        "number": 258,
+        "title": "FOCUS #257: FinOps Principles Refresh",
+        "type": "pr"
+        },
+        {
+        "number": 256,
+        "title": "Cleanups and fixes",
+        "type": "pr"
+        },
+        {
+        "number": 255,
+        "title": "FOCUS #242: Creating SKU ID based on work done by @arrarama",
+        "type": "pr"
+        },
+        {
+        "number": 254,
+        "title": "Added OCI sampled to tags.md",
+        "type": "pr"
+        },
+        {
+        "number": 253,
+        "title": "Supporting content for SkuId",
+        "type": "pr"
+        },
+        {
+        "number": 252,
+        "title": "FOCUS #252: Identifying custom columns",
+        "type": "pr"
+        },
+        {
+        "number": 251,
+        "title": "Add Support Service Category",
+        "type": "pr"
+        },
+        {
+        "number": 250,
+        "title": "FOCUS #249: EffectiveCost review",
+        "type": "pr"
+        },
+        {
+        "number": 248,
+        "title": "Clean up random uses of \"record\"",
+        "type": "pr"
+        },
+        {
+        "number": 247,
+        "title": "Corrections on some typographic conventions",
+        "type": "pr"
+        },
+        {
+        "number": 246,
+        "title": "Chandra cloudtrakr/chargesubcategory",
+        "type": "pr"
+        },
+        {
+        "number": 245,
+        "title": "Exception for abbreviation SKU",
+        "type": "pr"
+        },
+        {
+        "number": 244,
+        "title": "FOCUS #243: SKU Price ID Dimension",
+        "type": "pr"
+        },
+        {
+        "number": 240,
+        "title": "FOCUS #241: Commitment Discount Type Dimension",
+        "type": "pr"
+        },
+        {
+        "number": 239,
+        "title": "#242- Create a SKU ID Dimension",
+        "type": "pr"
+        },
+        {
+        "number": 238,
+        "title": "FOCUS #237: NegotiatedCost metric",
+        "type": "pr"
+        },
+        {
+        "number": 236,
+        "title": "FOCUS #164: Negotiated Unit Price metric",
+        "type": "pr"
+        },
+        {
+        "number": 235,
+        "title": "FOCUS #174: List Cost metric",
+        "type": "pr"
+        },
+        {
+        "number": 234,
+        "title": "FOCUS #231: ListUnitPrice metric review",
+        "type": "pr"
+        },
+        {
+        "number": 233,
+        "title": "FOCUS #232: BilledCost metric review",
+        "type": "pr"
+        },
+        {
+        "number": 230,
+        "title": "Update contributors.md",
+        "type": "pr"
+        },
+        {
+        "number": 229,
+        "title": "FOCUS #157: Discount Handling attribute",
+        "type": "pr"
+        },
+        {
+        "number": 228,
+        "title": "Minor edits",
+        "type": "pr"
+        },
+        {
+        "number": 227,
+        "title": "Add Tags dimension",
+        "type": "pr"
+        },
+        {
+        "number": 225,
+        "title": "FOCUS #165: Pricing Quantity",
+        "type": "pr"
+        },
+        {
+        "number": 224,
+        "title": "service-category-dimension update",
+        "type": "pr"
+        },
+        {
+        "number": 222,
+        "title": "Update grouping_constructs_for_resources_and_or_services.md",
+        "type": "pr"
+        },
+        {
+        "number": 221,
+        "title": "Add Charge Description dimension",
+        "type": "pr"
+        },
+        {
+        "number": 219,
+        "title": "FOCUS #185: Key-Value Format",
+        "type": "pr"
+        },
+        {
+        "number": 218,
+        "title": "FOCUS #223: Charge Subcategory column",
+        "type": "pr"
+        },
+        {
+        "number": 217,
+        "title": "Remove broken ChargeType link",
+        "type": "pr"
+        },
+        {
+        "number": 214,
+        "title": "FOCUS #161: Pricing Category column",
+        "type": "pr"
+        },
+        {
+        "number": 213,
+        "title": "Adding OCI sample for null_handling",
+        "type": "pr"
+        },
+        {
+        "number": 212,
+        "title": "Adding OCI reference for currency_code_format",
+        "type": "pr"
+        },
+        {
+        "number": 211,
+        "title": "Adding OCI reference for datetime_format",
+        "type": "pr"
+        },
+        {
+        "number": 210,
+        "title": "Adding OCI reference for BilledCost",
+        "type": "pr"
+        },
+        {
+        "number": 209,
+        "title": "Adding OCI reference for SubAccountName.",
+        "type": "pr"
+        },
+        {
+        "number": 208,
+        "title": "Adding OCI reference for subaccountid",
+        "type": "pr"
+        },
+        {
+        "number": 207,
+        "title": "Adding OCI reference for servicename",
+        "type": "pr"
+        },
+        {
+        "number": 206,
+        "title": "Adding OCI reference for servicecategory",
+        "type": "pr"
+        },
+        {
+        "number": 205,
+        "title": "Adding OCI reference for ResourceName",
+        "type": "pr"
+        },
+        {
+        "number": 204,
+        "title": "Adding OCI reference for regions",
+        "type": "pr"
+        },
+        {
+        "number": 203,
+        "title": "Adding OCI mappings in supporting content for chargeperiod.",
+        "type": "pr"
+        },
+        {
+        "number": 202,
+        "title": "Adding OCI mappings in supporting content for BillingPeriodEnd.",
+        "type": "pr"
+        },
+        {
+        "number": 201,
+        "title": "Adding OCI mappings in supporting content for billingperiodstart",
+        "type": "pr"
+        },
+        {
+        "number": 200,
+        "title": "Adding OCI mappings in supporting content for resourceid.",
+        "type": "pr"
+        },
+        {
+        "number": 199,
+        "title": "Update supporting content to add OCI mappings to billingperiodstart",
+        "type": "pr"
+        },
+        {
+        "number": 198,
+        "title": "Update supporting content to add OCI mappings to billingperiodend",
+        "type": "pr"
+        },
+        {
+        "number": 197,
+        "title": "Update supporting content to add OCI mappings to availabilityzone",
+        "type": "pr"
+        },
+        {
+        "number": 196,
+        "title": "Update supporting content to add OCI mappings to billingcurrency",
+        "type": "pr"
+        },
+        {
+        "number": 195,
+        "title": "Update supporting content to add OCI mappings to billingaccountid",
+        "type": "pr"
+        },
+        {
+        "number": 194,
+        "title": "Update supporting content to add OCI mappings to availabilityzone",
+        "type": "pr"
+        },
+        {
+        "number": 193,
+        "title": "FOCUS #180.2 - Adding language to make the 'Mandatory Alignment with Recommended Units\" Clear",
+        "type": "pr"
+        },
+        {
+        "number": 192,
+        "title": "FOCUS #190: Numeric Format Attribute",
+        "type": "pr"
+        },
+        {
+        "number": 191,
+        "title": "Added an attribute definition for Numeric format",
+        "type": "pr"
+        },
+        {
+        "number": 189,
+        "title": "Adding a paragraph to get explicit about numeric value and format acceptable in the usage quantity dimension",
+        "type": "pr"
+        },
+        {
+        "number": 188,
+        "title": "#181 - Usage Unit - Review Feedback - Builds out the language in the recommended unit set",
+        "type": "pr"
+        },
+        {
+        "number": 187,
+        "title": "Expanded the language to be a bit more precise on format, added language to recommended unit set",
+        "type": "pr"
+        },
+        {
+        "number": 186,
+        "title": "FOCUS #182: Usage Quantity",
+        "type": "pr"
+        },
+        {
+        "number": 184,
+        "title": "FOCUS #181: Usage Unit Dimension",
+        "type": "pr"
+        },
+        {
+        "number": 180,
+        "title": "FOCUS #152: Commitment Status",
+        "type": "pr"
+        },
+        {
+        "number": 179,
+        "title": "FOCUS #169: Pricing Unit Dimension",
+        "type": "pr"
+        },
+        {
+        "number": 178,
+        "title": "FOCUS #146: Billed Unit Price metric spec and supporting content",
+        "type": "pr"
+        },
+        {
+        "number": 176,
+        "title": "keyvalueformat",
+        "type": "pr"
+        },
+        {
+        "number": 175,
+        "title": "Fixed typo",
+        "type": "pr"
+        },
+        {
+        "number": 173,
+        "title": "FOCUS #151: Commitment Discount Category",
+        "type": "pr"
+        },
+        {
+        "number": 171,
+        "title": "FOCUS #172: Resource Type dimension",
+        "type": "pr"
+        },
+        {
+        "number": 170,
+        "title": "FOCUS #153: CommitmentTerm spec changes and supporting content",
+        "type": "pr"
+        },
+        {
+        "number": 168,
+        "title": "FOCUS #154: Create Charge Frequency Dimension",
+        "type": "pr"
+        },
+        {
+        "number": 167,
+        "title": "FOCUS #150: CommitmentDiscountName spec changes and supporting content",
+        "type": "pr"
+        },
+        {
+        "number": 166,
+        "title": "FOCUS #149: CommitmentDiscountId spec changes and supporting content",
+        "type": "pr"
+        },
+        {
+        "number": 163,
+        "title": "FOCUS #145: List Unit Price spec changes and supporting content",
+        "type": "pr"
+        },
+        {
+        "number": 144,
+        "title": "Renaming Amortized Cost metric to Effective Cost",
+        "type": "pr"
+        },
+        {
+        "number": 143,
+        "title": "Updated appendix/attribute links in dimensions",
+        "type": "pr"
+        },
+        {
+        "number": 137,
+        "title": "135 correct spelling in contributors section (#136)",
+        "type": "pr"
+        },
+        {
+        "number": 136,
+        "title": "135 correct spelling in contributors section",
+        "type": "pr"
+        },
+        {
+        "number": 134,
+        "title": "v0.5 Candidate Release",
+        "type": "pr"
+        },
+        {
+        "number": 133,
+        "title": "v0.5 Candidate Release Milestone",
+        "type": "pr"
+        },
+        {
+        "number": 132,
+        "title": "FOCUS #128: Add contributors and other minor cleanup",
+        "type": "pr"
+        },
+        {
+        "number": 130,
+        "title": "Improvements to document generation and builds",
+        "type": "pr"
+        },
+        {
+        "number": 127,
+        "title": "FOCUS #20: ChargePeriod start and end content + fixes",
+        "type": "pr"
+        },
+        {
+        "number": 123,
+        "title": "FOCUS #76: Create Datetime Requirements attribute",
+        "type": "pr"
+        },
+        {
+        "number": 122,
+        "title": "39 create an amortized cost metric",
+        "type": "pr"
+        },
+        {
+        "number": 121,
+        "title": "#107 Create billing period end dimension",
+        "type": "pr"
+        },
+        {
+        "number": 120,
+        "title": "#107 Create Billing Period Start dimension",
+        "type": "pr"
+        },
+        {
+        "number": 119,
+        "title": "FOCUS #75: Currency Code attribute and related content",
+        "type": "pr"
+        },
+        {
+        "number": 118,
+        "title": "Add ServiceCategory spec",
+        "type": "pr"
+        },
+        {
+        "number": 117,
+        "title": "#92 - BillingCurrency attribute",
+        "type": "pr"
+        },
+        {
+        "number": 116,
+        "title": "Update ServiceName definition to clarify intent",
+        "type": "pr"
+        },
+        {
+        "number": 115,
+        "title": "FOCUS #114: Minor formatting and content cleanup",
+        "type": "pr"
+        },
+        {
+        "number": 113,
+        "title": "FOCUS # 19 subaccountid",
+        "type": "pr"
+        },
+        {
+        "number": 112,
+        "title": "FOCUS #9: Create region dimension",
+        "type": "pr"
+        },
+        {
+        "number": 111,
+        "title": "FOCUS #93: Adding  availability zones dimension",
+        "type": "pr"
+        },
+        {
+        "number": 110,
+        "title": "FOCUS #19: subaccountId",
+        "type": "pr"
+        },
+        {
+        "number": 109,
+        "title": "#18 - Sub account name dimension",
+        "type": "pr"
+        },
+        {
+        "number": 108,
+        "title": "18 account name dimension",
+        "type": "pr"
+        },
+        {
+        "number": 103,
+        "title": "FOCUS #91: Appendix section - Grouping constructs for resources and or services spec changes and supporting content",
+        "type": "pr"
+        },
+        {
+        "number": 101,
+        "title": "Formatting improvements - Vendored markdown-pp #89",
+        "type": "pr"
+        },
+        {
+        "number": 100,
+        "title": "FOCUS #38: Create a Billed Cost metric",
+        "type": "pr"
+        },
+        {
+        "number": 99,
+        "title": "Focus #17 : Create billing account id dimension spec",
+        "type": "pr"
+        },
+        {
+        "number": 98,
+        "title": "17 billing account",
+        "type": "pr"
+        },
+        {
+        "number": 97,
+        "title": "FOCUS #16 : Create  billing account name dimension spec",
+        "type": "pr"
+        },
+        {
+        "number": 96,
+        "title": "FOCUS #18: Sub Account Name dimension",
+        "type": "pr"
+        },
+        {
+        "number": 90,
+        "title": "Issue #83 clean up HTML",
+        "type": "pr"
+        },
+        {
+        "number": 86,
+        "title": "FOCUS #82: Minor formatting and content cleanup",
+        "type": "pr"
+        },
+        {
+        "number": 85,
+        "title": "Fix issue with OSX builds missing last line #84",
+        "type": "pr"
+        },
+        {
+        "number": 81,
+        "title": "Better formatting for specification Issues #79 #80",
+        "type": "pr"
+        },
+        {
+        "number": 69,
+        "title": "Issue #68 detect smart characters in linting",
+        "type": "pr"
+        },
+        {
+        "number": 65,
+        "title": "FOCUS #31: Invoicing Entity spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 64,
+        "title": "FOCUS #30: Publisher spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 63,
+        "title": "FOCUS #66: Enable HTML output",
+        "type": "pr"
+        },
+        {
+        "number": 62,
+        "title": "FOCUS #11: Provider spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 61,
+        "title": "FOCUS #11: Provider spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 60,
+        "title": "FOCUS #30: Publisher spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 59,
+        "title": "FOCUS #31: Invoicing Entity spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 58,
+        "title": "FOCUS #55: Appendix section for Origination of cost data",
+        "type": "pr"
+        },
+        {
+        "number": 56,
+        "title": "FOCUS #35: Spec changes for NULL handling attribute",
+        "type": "pr"
+        },
+        {
+        "number": 54,
+        "title": "Issue #52 - Added some extra spec tidy ups",
+        "type": "pr"
+        },
+        {
+        "number": 51,
+        "title": "issue #50 valdate for missing MD includes",
+        "type": "pr"
+        },
+        {
+        "number": 49,
+        "title": "FOCUS #8: ChargeType column spec",
+        "type": "pr"
+        },
+        {
+        "number": 48,
+        "title": "FOCUS #19: Sub Account ID related spec changes",
+        "type": "pr"
+        },
+        {
+        "number": 47,
+        "title": "FOCUS #10: Service Name related spec changes",
+        "type": "pr"
+        },
+        {
+        "number": 46,
+        "title": "Issue #45 correct broken links to the spec inside the spec",
+        "type": "pr"
+        },
+        {
+        "number": 44,
+        "title": "FOCUS #23: Column naming convention attribute and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 43,
+        "title": "FOCUS #4: Resource Name spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 42,
+        "title": "FOCUS #5: Resource ID spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 41,
+        "title": "#37: adding abstract / conformance / introduction and other necessary sections for the specification",
+        "type": "pr"
+        },
+        {
+        "number": 40,
+        "title": "FOCUS #37: adding abstract / conformance / introduction and other nesessary sections for the specification",
+        "type": "pr"
+        },
+        {
+        "number": 33,
+        "title": "FOCUS_Spec-#5: Resource ID spec changes and supporting documents",
+        "type": "pr"
+        },
+        {
+        "number": 2,
+        "title": "Added GitHub Actions spec",
+        "type": "pr"
+        },
+        {
+        "number": 1,
+        "title": "Added GitHub Actions spec",
+        "type": "pr"
+        }
+    ]
