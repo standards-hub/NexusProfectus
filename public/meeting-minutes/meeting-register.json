@@ -1,0 +1,1896 @@
+{
+    "organization": "FOCUS",
+    "platforms": [
+        {
+            "id": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec",
+            "type": "Repository",
+            "title": "FOCUS_Spec"
+        },
+        {
+            "id": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation",
+            "type": "Repository",
+            "title": "foundation"
+        },
+        {
+            "id": "https://drive.google.com/drive/u/0/folders/1d5QZUlabHRN7-Wpbs3y4eOGUqhAvz3MU",
+            "type": "Google Drive",
+            "title": "v1.2"
+        },
+        {
+            "id": "https://drive.google.com/drive/folders/17l_VYFpLyUhT3TUmYCV9g6uNKq-N4a01?usp=sharing",
+            "type": "Google Drive",
+            "title": "#72"
+        }
+    ],
+    "meetings": [
+        {
+            "id": "FOCUS_Maintainers_16-Dec-24",
+            "group": {
+                "name": "Maintainers",
+                "symbol": "Maintainers"
+            },
+            "startTime": "2024-12-16T13:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Maintainers_16-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1NoQi_e_VdbAC6_8nNylyeEtJ9dca3NMJ/view?usp=drive_link"
+            },
+            "attendees": [
+                {
+                    "name": "Joaquin Prado (FOCUS PM)"
+                },
+                {
+                    "name": "Larry Advey (Twilio)"
+                },
+                {
+                    "name": "Shawn Alpay (FinOps)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Christopher Harris (Datadog)"
+                },
+                {
+                    "name": "Erik Peterson (CloudZero)"
+                },
+                {
+                    "name": "Tim Wright (Google)"
+                },
+                {
+                    "name": "Riley Jenkins (Domo)"
+                },
+                {
+                    "name": "Alex Hulah (GS)"
+                },
+                {
+                    "name": "Michael Flanakin (Microsoft)"
+                },
+                {
+                    "name": "Vas M… (FinOps)"
+                },
+                {
+                    "name": "Udam Dewaraja"
+                }
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Steering Committee Update",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Procedures for Capturing Action Items",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "540 Address Bug that Allows Overlapping User-Defined Tag Structures",
+                    "platform": "FOCUS_Spec",
+                    "id": "540",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/540",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#556 Augment Support for Correction Handling and #636 Clarify Guidance Around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#617 Revise Glossary Definition for FOCUS Dataset to Include Provider Columns",
+                    "platform": "FOCUS_Spec",
+                    "id": "617",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/617",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#647 Prevent Double-Counting of Commitment Discounts",
+                    "platform": "FOCUS_Spec",
+                    "id": "647",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/647",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#314 Clarify Definition for SKU ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "314",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/314",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#317 Add Columns That Describe Provider Entities in Billing Account and Sub Account",
+                    "platform": "FOCUS_Spec",
+                    "id": "317",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/317",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#615 Add Invoice ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "615",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/615",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 Formally Define Backward Compatibility",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#616 Document and Add Support for SaaS Concepts",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#666 Contractual Commitment Events",
+                    "platform": "FOCUS_Spec",
+                    "id": "666",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/666",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#534 Expose Commitment Discount Price and Cost",
+                    "platform": "FOCUS_Spec",
+                    "id": "534",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/534",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#637 Carbon Footprint Data for Sustainability Use Cases",
+                    "platform": "FOCUS_Spec",
+                    "id": "637",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/637",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: How to Get More Folks Involved in FOCUS",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Shortening Members Meeting to 60 Minutes?",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Maintainers_9-Dec-24",
+            "group": {
+                "name": "Maintainers",
+                "symbol": "Maintainers"
+            },
+            "startTime": "2024-12-09T13:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Maintainers_9-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1VKzjBmzoatnfq2xW0ZkP4cCyOwVk06He/view?usp=sharing"
+            },
+            "attendees": [
+                {
+                    "name": "Joaquin Prado (FOCUS PM)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Christopher Harris (Datadog)"
+                },
+                {
+                    "name": "Shawn Alpay (FinOps Foundation)"
+                },
+                {
+                    "name": "Letian Feng (AWS)"
+                },
+                {
+                    "name": "Zach Erdman (AWS)"
+                },
+                {
+                    "name": "Riley Jenkins (Domo)"
+                },
+                {
+                    "name": "Rob Martin"
+                },
+                {
+                    "name": "Mike Fuller (FinOps Foundation)"
+                },
+                {
+                    "name": "Michael Flanakin (Microsoft)"
+                },
+                {
+                    "name": "J.R. Storment"
+                },
+                {
+                    "name": "Karl Kraft (Walmart)"
+                },
+                {
+                    "name": "Udam Dewaraja"
+                },
+                {
+                    "name": "Tim Wright (Google)"
+                },
+                {
+                    "name": "Alex Hullah (GS)"
+                }
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Maintainer Resourcing",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 [Work_Item] Backwards compatibility principles for FOCUS",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Documented maintainer expectations, PR #17 (Foundation repo)",
+                    "platform": "foundation",
+                    "id": "17",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/pull/17",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Update from TFs - discuss any blockers for 1.2 scope",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 Normative requirements",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#616 SaaS support",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#534 [Work_Item] Add Commitment Discount Unit Price and Cost",
+                    "platform": "FOCUS_Spec",
+                    "id": "534",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/534",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 SKU properties, review SKU Properties Survey, ad-hoc meeting on SKU properties",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "New backlog issues",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#662 (Reduced vs Negotiated Language), #663 (Add Associated Resource ID)",
+                    "platform": "FOCUS_Spec",
+                    "id": "662",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/662",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[FEEDBACK]: New FOCUS column to track associated resource ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "663",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/663",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "When can we decide to collapse #556 and #636 (corrections and refunds handling)?",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Maintainers mentoring program",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Maintainers_2-Dec-24",
+            "group": {
+                "name": "Maintainers",
+                "symbol": "Maintainers"
+            },
+            "startTime": "2024-12-02T13:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Maintainers_2-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/12JfeE-YlBmYL0WjYnYYGj1l21b6yIoOH/view?usp=drive_link"
+            },
+            "attendees": [
+                {
+                    "name": "Karl Kraft (Walmart)"
+                },
+                {
+                    "name": "Joaquin Prado (FOCUS PM)"
+                },
+                {
+                    "name": "Shawn Alpay (FinOps)"
+                },
+                {
+                    "name": "Christopher Harris (Datadog)"
+                },
+                {
+                    "name": "Michael Flanakin (Microsoft)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Riley Jenkins (Domo)"
+                },
+                {
+                    "name": "Udam Dewaraja"
+                },
+                {
+                    "name": "Tim Wright (Google)"
+                }
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Please Review and Approve the EDITORIAL PRs",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: 24.09.23 Maintainers Retrospective for FOCUS Rel 1.1",
+                    "platform": "Google Drive",
+                    "id": "1m2vv-BBxK4ibMtQLzVlqCdqYAOUgAK9kNsWPnFzgaaI",
+                    "url": "https://docs.google.com/document/d/1m2vv-BBxK4ibMtQLzVlqCdqYAOUgAK9kNsWPnFzgaaI/edit?usp=sharing",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "The Way We Work - FOCUS Rules of Engagement, PR #23 Addition of Guiding Principles",
+                    "platform": "foundation",
+                    "id": "23",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/pull/23",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: SKU Properties Survey Proposed in TF-2",
+                    "platform": "Google Drive",
+                    "id": "1RWSWeNSzhWzMV9fJbD6YdhNuBouSQNb6SNy8J3GNaw4",
+                    "url": "https://docs.google.com/document/d/1RWSWeNSzhWzMV9fJbD6YdhNuBouSQNb6SNy8J3GNaw4/edit?tab=t.0#heading=h.ew013zcb8x56",
+                    "type": "Document",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Updating Service Subcategories for SaaS, Discussed in TF-3",
+                    "platform": "Google Drive",
+                    "id": "1kQTDK3Sk9BnNcn6Ovyaa37T1aMaXfHaDahsuk1Notn4",
+                    "url": "https://docs.google.com/spreadsheets/d/1kQTDK3Sk9BnNcn6Ovyaa37T1aMaXfHaDahsuk1Notn4/edit?usp=sharing",
+                    "type": "Document",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: What Do the Maintainers Want from the Steering Committee?",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Summary of TF-3 Discussion on SaaS",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-1_17-Dec-24",
+            "group": {
+                "name": "Task Force 1",
+                "symbol": "TF-1"
+            },
+            "startTime": "2024-12-17T08:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-1_17-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1S3KEvmw0p224unkZqqaA20loqZXOU5yS/view?usp=drive_link"
+            },
+            "attendees": [
+                {
+                    "name": "Joaquin Prado (FOCUS PM)"
+                },
+                {
+                    "name": "Shawn Alpay (FinOps)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Rob Martin (FinOps)"
+                },
+                {
+                    "name": "David Dinh - (GCP)"
+                },
+                {
+                    "name": "Tim Wright (Google)"
+                },
+                {
+                    "name": "Steve Pearson (Capital One)"
+                },
+                {
+                    "name": "Alex Hulah (GS)"
+                },
+                {
+                    "name": "Marc Perreaut (Amadeus)"
+                },
+                {
+                    "name": "Christopher Harris (Datadog)"
+                }
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#556 Augment support for correction handling",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#540 Address bug that allows overlapping user-defined Tag structures",
+                    "platform": "FOCUS_Spec",
+                    "id": "540",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/540",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#636 Clarify guidance around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "636",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/636",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-1_10-Dec-24",
+            "group": {
+                "name": "Task Force 1",
+                "symbol": "TF-1"
+            },
+            "startTime": "2024-12-10T08:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-1_10-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1gsGmh0BYZLHbHyQKezkDaNW9tzvihoo2/view?usp=sharing"
+            },
+            "attendees": [
+                {
+                    "name": "Joaquin Prado (FOCUS PM)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Shawn Alpay (FinOps)"
+                },
+                {
+                    "name": "Steve Pearson (Capital One)"
+                },
+                {
+                    "name": "Dave Hatcher (Virtasant)"
+                },
+                {
+                    "name": "Christopher Harris (Datadog)"
+                },
+                {
+                    "name": "Riley Jenkins (Domo)"
+                },
+                {
+                    "name": "Marc Perreaut (Amadeus)"
+                },
+                {
+                    "name": "Tim Wright (Google)"
+                },
+                {
+                    "name": "Arun Ramakrishnan(OCI)"
+                },
+                {
+                    "name": "Tim O’Brien (Walmart)"
+                },
+                {
+                    "name": "Michael Flanakin (Microsoft)"
+                }
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 [Work_Item] Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#556 [Work_Item]: Augment Support for Correction Handling and #636 [Work_Item]: Clarify Guidance Around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-1_3-Dec-24",
+            "group": {
+                "name": "Task Force 1",
+                "symbol": "TF-1"
+            },
+            "startTime": "2024-12-03T08:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-1_3-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/12JfeE-YlBmYL0WjYnYYGj1l21b6yIoOH/view?usp=drive_link"
+            },
+            "attendees": [
+                {
+                    "name": "Dave Hatcher (Virtasant)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Steve Pearson (Capital One)"
+                },
+                {
+                    "name": "Michael Flanakin (Microsoft)"
+                },
+                {
+                    "name": "Tim Wright (Google)"
+                },
+                {
+                    "name": "Christopher Harris (Datadog)"
+                },
+                {
+                    "name": "Alex Hulah (GS)"
+                },
+                {
+                    "name": "Tim OBrien (Walmart)"
+                }
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 [Work_Item] Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#556 [Work_Item]: Augment Support for Correction Handling and #636 [Work_Item]: Clarify Guidance Around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#636: Work Item Clarify Guidance Around Refunds with FOCUS",
+                    "platform": "FOCUS_Spec",
+                    "id": "636",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/636",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-2_18-Dec-24",
+            "group": {
+                "name": "Task Force 2",
+                "symbol": "TF-2"
+            },
+            "startTime": "2024-12-18T13:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-2_18-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1gffdnodm_UgBvo3nAXsrw3QeDArqGOCA/view?usp=drive_link"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Shawn Alpay (FinOps)"
+                    },
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Tim O’Brien (Walmart)"
+                    },
+                    {
+                        "name": "Karl Kraft (Walmart)"
+                    },
+                    {
+                        "name": "Beau Nelford (Anglepoint)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Rob Martin (FinOps)"
+                    },
+                    {
+                        "name": "Letian Feng (AWS)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 Formally Define Change Management Principles",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-2_11-Dec-24",
+            "group": {
+                "name": "Task Force 2",
+                "symbol": "TF-2"
+            },
+            "startTime": "2024-12-11T13:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-2_11-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1eTLKSFDGeqQIvwcF8iMuTHohRrz7Eyj_/view?usp=drive_link"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    },
+                    {
+                        "name": "Gina Huh (Google)"
+                    },
+                    {
+                        "name": "Deeja Cruz (DataDog)"
+                    },
+                    {
+                        "name": "Udam Dewaraja"
+                    },
+                    {
+                        "name": "Karl Kraft (Walmart)"
+                    },
+                    {
+                        "name": "David Dinh (GCP)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#314 Clarify Definition of SKU ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "314",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/314",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 Backwards Compatibility Principles for FOCUS",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-2_4-Dec-24",
+            "group": {
+                "name": "Task Force 2",
+                "symbol": "TF-2"
+            },
+            "startTime": "2024-12-04T13:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-2_4-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/17sIx2_V8ryEaAslQgwRbXbzpSzYsMu6u/view?usp=sharing"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "David Dinh - (GCP)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Karl Kraft (Walmart)"
+                    },
+                    {
+                        "name": "Udam Dewaraja"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Tim OBrien (Walmart)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#314 Clarify Definition of SKU ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "314",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/314",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 Work Item: Backwards Compatibility Principles for FOCUS",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/634",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#317 Work Item: Denote Provider Entities Represented in Billing Account and Sub",
+                    "platform": "FOCUS_Spec",
+                    "id": "317",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/317",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-3_20-Dec-24",
+            "group": {
+                "name": "Task Force 3",
+                "symbol": "TF-3"
+            },
+            "startTime": "2024-12-20T08:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-3_20-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1hYLI_NRvlTBmW-pIa6aGVtPhukhHgpyy/view?usp=drive_link"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Christopher Harris (Datadog)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Beau Nelford (Anglepoint)"
+                    },
+                    {
+                        "name": "Udam Dewaraja"
+                    },
+                    {
+                        "name": "Tim Wright (Google)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Larry Advey (Twilio)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#534 Expose Commitment Discount Price and Cost",
+                    "platform": "FOCUS_Spec",
+                    "id": "534",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/534",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-3_13-Dec-24",
+            "group": {
+                "name": "Task Force 3",
+                "symbol": "TF-3"
+            },
+            "startTime": "2024-12-13T08:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-3_13-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/15pMUWrilGyaxRbM2C-uFaIY_H9uvSpR3/view?usp=sharing"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Larry Advey (Twilio)"
+                    },
+                    {
+                        "name": "Alex Hulah (GS)"
+                    },
+                    {
+                        "name": "Christopher Harris (Datadog)"
+                    },
+                    {
+                        "name": "George Parker (Salesforce)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Tim Wright (Google)"
+                    },
+                    {
+                        "name": "Todd Blake (Datadog)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#534 Expose Commitment Discount Price and Cost",
+                    "platform": "FOCUS_Spec",
+                    "id": "534",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/534",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#616 Work Item: Document and add initial support for SaaS-centric concepts",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_TF-3_6-Dec-24",
+            "group": {
+                "name": "Task Force 3",
+                "symbol": "TF-3"
+            },
+            "startTime": "2024-12-06T08:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_TF-3_6-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1QOyJ_64p4mfkr_f1GsUnOITUioDZg8iy/view?usp=sharing"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "George Parker (Salesforce)"
+                    },
+                    {
+                        "name": "Alex Hulah (GS)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Christopher Harris (Datadog)"
+                    },
+                    {
+                        "name": "Todd Blake (Datadog)"
+                    },
+                    {
+                        "name": "Tim O’Brien (Walmart)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#616 Work Item: Document and add initial support for SaaS-centric concepts",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Members_19-Dec-24",
+            "group": {
+                "name": "Members",
+                "symbol": "Members"
+            },
+            "startTime": "2024-12-19T11:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Members_19-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1A6P6uITK8bpFzfh-rj4fWSV9FQ_haSJ3/view?usp=drive_link"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Shawn Alpay (FinOps)"
+                    },
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Larry Advey (Twilio)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    },
+                    {
+                        "name": "Beau Nelford (Anglepoint)"
+                    },
+                    {
+                        "name": "Christopher Harris (Datadog)"
+                    },
+                    {
+                        "name": "George Parker (Salesforce)"
+                    },
+                    {
+                        "name": "Tim O’Brien (Walmart)"
+                    },
+                    {
+                        "name": "Karl Kraft (Walmart)"
+                    },
+                    {
+                        "name": "J.R. Storment (FinOps)"
+                    },
+                    {
+                        "name": "Rob Martin (FinOps)"
+                    },
+                    {
+                        "name": "Vas M… (FinOps)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#669 Build Job Failing (#668 Fix PDF Generation Tasks)",
+                    "platform": "FOCUS_Spec",
+                    "id": "669",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/pull/669",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#671 (670) Actions Deprecation (Update Checkout/Actions Version from 3 to 4)",
+                    "platform": "FOCUS_Spec",
+                    "id": "671",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/pull/671",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "540 Address Bug that Allows Overlapping User-Defined Tag Structures",
+                    "platform": "FOCUS_Spec",
+                    "id": "540",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/540",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#556 Augment Support for Correction Handling and #636 Clarify Guidance Around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 Change Management Principles for Backward Compatibility",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#534 Expose Commitment Discount Price and Cost",
+                    "platform": "FOCUS_Spec",
+                    "id": "534",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/534",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#637 Cloud Sustainability - Call Update",
+                    "platform": "FOCUS_Spec",
+                    "id": "637",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/637",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Members_12-Dec-24",
+            "group": {
+                "name": "Members",
+                "symbol": "Members"
+            },
+            "startTime": "2024-12-12T11:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Members_12-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1bA_Ijd45BJMtKDI7okOs9D1go3MzcYyn/view?usp=drive_link"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Larry Advey (Twilio)"
+                    },
+                    {
+                        "name": "Jesse Adams (Acuity)"
+                    },
+                    {
+                        "name": "David Dinh - (GCP)"
+                    },
+                    {
+                        "name": "Shawn Alpay (FinOps)"
+                    },
+                    {
+                        "name": "Vas M… (FinOps)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    },
+                    {
+                        "name": "Alex Hulah (GS)"
+                    },
+                    {
+                        "name": "Tim O’Brien (Walmart)"
+                    },
+                    {
+                        "name": "Michael Flanakin (Microsoft)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: FOCUS Sandbox and Sample Data",
+                    "platform": "",
+                    "id": "",
+                    "url": "https://focus.finops.org/sandbox/",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "PR #17 Documented Maintainers Expectations (Operating Procedures)",
+                    "platform": "foundation",
+                    "id": "17",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/pull/17",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "PR #23 Guiding Principles (Repo: Foundation)",
+                    "platform": "foundation",
+                    "id": "23",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/pull/23",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "PR #660 [EDITORIAL] Update Release Planning Page for 1.2 (Repo: FOCUS_Spec)",
+                    "platform": "FOCUS_Spec",
+                    "id": "660",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/pull/660",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#314 Clarify Definition for SKU ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "314",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/314",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 [Work_Item] Define Change Management Principles to Determine Backwards Compatibility",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/634",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#616 Document and Add Support for SaaS Concepts",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#637 Cloud Sustainability - Call Update",
+                    "platform": "FOCUS_Spec",
+                    "id": "637",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/637",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Members_5-Dec-24",
+            "group": {
+                "name": "Members",
+                "symbol": "Members"
+            },
+            "startTime": "2024-12-05T11:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Members_5-Dec-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1v__kVJTsrolkneNTmjP48tPjR7IS945J/view?usp=drive_link"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Shawn Alpay (FinOps)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Todd Blake (Datadog)"
+                    },
+                    {
+                        "name": "George Parker (Salesforce)"
+                    },
+                    {
+                        "name": "Tim OBrien (Walmart)"
+                    },
+                    {
+                        "name": "Tim Wright (Google)"
+                    },
+                    {
+                        "name": "Christopher Harris (Datadog)"
+                    },
+                    {
+                        "name": "Karl Kraft (Walmart)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    },
+                    {
+                        "name": "Alex Hulah (GS)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#606 [DISCUSSION] 24.09.27 - Columns - Editorial PRs",
+                    "platform": "FOCUS_Spec",
+                    "id": "606",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/606",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "The Way We Work - FOCUS Rules of Engagement, PR #23 Addition of Guiding Principles",
+                    "platform": "foundation",
+                    "id": "23",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/pull/23",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "PR #660 [EDITORIAL] Update Release Planning Page for 1.2 (Repo: FOCUS_Spec)",
+                    "platform": "FOCUS_Spec",
+                    "id": "660",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/pull/660",
+                    "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#557 Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#556 Augment Support for Correction Handling and #636 Clarify Guidance Around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#647 Prevent Double-Counting of Commitment Discounts",
+                    "platform": "FOCUS_Spec",
+                    "id": "647",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/647",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "540 [Work_Item] (BUG) Ensure All User-Defined Tags Are Encapsulated Within the Tags Column",
+                    "platform": "FOCUS_Spec",
+                    "id": "540",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/540",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#617 [Work_Item] Revise Glossary Definition for FOCUS Dataset to Include Provider Columns",
+                    "platform": "FOCUS_Spec",
+                    "id": "617",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/617",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#643 [Work_Item] Backwards Compatibility Principles for FOCUS",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#619 Add SKU Properties (e.g., term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#314 Clarify Definition for SKU ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "314",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/314",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#616 Document and Add Support for SaaS Concepts",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#637 Cloud Sustainability - Call Update",
+                    "platform": "FOCUS_Spec",
+                    "id": "637",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/637",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Labels Classification",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Members_21-Nov-24",
+            "group": {
+                "name": "Members",
+                "symbol": "Members"
+            },
+            "startTime": "2024-12-21T11:00:00-09:00",
+            "links": {
+                "minutes": "",
+                "transcript": "local_tasks/topic_segmentation/segmented_transcripts/FOCUS_Members_21-Nov-24_Transcript_segmented.json",
+                "recording": "https://drive.google.com/file/d/1cVg2LrA10zIAUJRVfeJsXGv1klzC9yTc/view?usp=sharing"
+            },
+            "attendees": [
+                [
+                    {
+                        "name": "YäRKEN Notetaker"
+                    },
+                    {
+                        "name": "Joaquin Prado (FOCUS PM)"
+                    },
+                    {
+                        "name": "Christopher Harris (Datadog)"
+                    },
+                    {
+                        "name": "Larry Advey (Twilio)"
+                    },
+                    {
+                        "name": "Irena Jurica (Neos)"
+                    },
+                    {
+                        "name": "Karl Kraft (Walmart)"
+                    },
+                    {
+                        "name": "Steve Pearson (Capital One)"
+                    },
+                    {
+                        "name": "Shawn Alpay (FinOps)"
+                    },
+                    {
+                        "name": "Tim O’Brien (Walmart)"
+                    },
+                    {
+                        "name": "Rob Martin (FinOps)"
+                    },
+                    {
+                        "name": "Deeja Cruz (DataDog)"
+                    },
+                    {
+                        "name": "J.R. Storment (FinOps)"
+                    },
+                    {
+                        "name": "Tim Wright (Google)"
+                    },
+                    {
+                        "name": "Vas M… (FinOps)"
+                    },
+                    {
+                        "name": "David Dinh - (GCP)"
+                    },
+                    {
+                        "name": "Riley Jenkins (Domo)"
+                    }
+                ]
+            ],
+            "agendaArtifacts": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Topic: Summary of Review by FinOps Executive Director (JR)",
+                    "platform": "",
+                    "id": "",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Approval of Work Items for FOCUS Rel v1.2 Scope (label: 1.2 proposal)",
+                    "platform": "FOCUS_Spec",
+                    "id": "611",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/611",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Questions on WI #406 & #534",
+                    "platform": "FOCUS_Spec",
+                    "id": "406",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/406",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#637 Carbon Footprint Data for Sustainability Use Cases",
+                    "platform": "FOCUS_Spec",
+                    "id": "637",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/637",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "#606 [DISCUSSION] 24.09.27 - Columns - Editorial PRs",
+                    "platform": "FOCUS_Spec",
+                    "id": "606",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/606",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        }
+    ]
+}
