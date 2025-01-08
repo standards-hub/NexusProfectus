@@ -11,32 +11,64 @@ ui:
 ---
 ::ShDynamicTable
 ---
-dataUrl: "/data/focus_items.json"
+dataUrl: "/data/meetingRegister.json"
 dataField: ''
 columns:
   - name: "type"
-    title: "Type"
+    title: "Groups"
     filter: true
     query: true
     hide: false
     sortable: false
     type: text
   - name: "number"
-    title: "Item ID"
+    title: "Dates"
     filter: true
     query: true
     sortable: true
     type: number
   - name: "title"
-    title: "Title"
+    title: "Attendees"
+    hide: true
     filter: true
+    query: true
+    sortable: true
+    type: text
+  - name: "title"
+    title: "Rel Version"
+    hide: true
+    filter: true
+    query: true
+    sortable: true
+    type: text
+  - name: "title"
+    title: "Minutes"
+    filter: false
+    query: true
+    sortable: true
+    type: text
+  - name: "title"
+    title: "Topics"
+    filter: true
+    query: true
+    sortable: true
+    type: text
+  - name: "title"
+    title: "Item"
+    filter: false
+    query: true
+    sortable: true
+    type: number
+  - name: "title"
+    title: "Resources"
+    filter: false
     query: true
     sortable: false
     type: text
-header: FOCUS GitHug Items
+header: FOCUS GitHub Items
 ---
 ::
 ::
 
-::FlattenJson
+::FilterTopic
 ::

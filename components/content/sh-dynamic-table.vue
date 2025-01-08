@@ -165,6 +165,8 @@ const fetchData = async () => {
         data = $filterCommonObjects(data)
       } else if (props.transformRawData === "filterOmaEnablers") {
         data = $filterOmaEnablers(data)
+      } else if (props.transformRawData === "filterTopic") {
+        data = $filterTopic(data)
       }
     }
     nextTick()
