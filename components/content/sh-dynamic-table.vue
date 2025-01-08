@@ -97,7 +97,7 @@
 
 <script setup lang="ts">
 import { dynamicTable as config } from "@/ui.config"
-const { $filterDDFObjects, $filterCommonObjects, $filterOmaEnablers } = useNuxtApp();
+const { $filterDDFObjects, $filterCommonObjects, $filterOmaEnablers, $filterTopic } = useNuxtApp();
 
 const PER_PAGE_LIST = config.perPage
 
