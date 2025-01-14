@@ -197,7 +197,7 @@
                 {
                     "startTimestamp": "",
                     "endTimestamp": "",
-                    "title": "#617 Revise Glossary Definition for FOCUS Dataset to Include Provider Columns",
+                    "title": "Revise Glossary Definition for FOCUS Dataset to Include Provider Columns",
                     "platform": "FOCUS_Spec",
                     "id": "617",
                     "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/617",
@@ -285,7 +285,7 @@
                 {
                     "startTimestamp": "",
                     "endTimestamp": "",
-                    "title": "#666 Contractual Commitment Events",
+                    "title": "Contractual Commitment Events",
                     "platform": "FOCUS_Spec",
                     "id": "666",
                     "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/666",
@@ -6224,6 +6224,252 @@
                     "id": "587",
                     "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/pull/587",
                     "type": "PR",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                }
+            ]
+        },
+        {
+            "id": "FOCUS_Maintainers_6-Jan-25",
+            "groupID": "Maintainers",
+            "startTime": "2025-01-06T13:00:00-09:00",
+            "endTime": "2025-01-06T14:00:00-09:00",
+            "links": {
+                "minutes": "minutes/FOCUS_Maintainers_6-Jan-25_Minutes.md",
+                "transcript": "data/3.Transcripts/FOCUS_Maintainers_6-Jan-25_Transcript.txt",
+                "recording": "https://drive.google.com/file/d/1yKd3yzDXkJRCExT5ajE8uCDhwlBz_CQk/view?usp=drive_link"
+            },
+            "attendees": [
+                {
+                    "name": "Joaquin Prado (FOCUS PM)"
+                },
+                {
+                    "name": "Karl Kraft (Walmart)"
+                },
+                {
+                    "name": "Irena Jurica (Neos)"
+                },
+                {
+                    "name": "Shawn Alpay (FinOps Foundation)"
+                },
+                {
+                    "name": "Rob Martin (FinOps Foundation)"
+                },
+                {
+                    "name": "J.R. Storment (FinOps Foundation)"
+                },
+                {
+                    "name": "Alex Hullah (GS)"
+                },
+                {
+                    "name": "Vas M… (FinOps Foundation)"
+                },
+                {
+                    "name": "Mike Fuller (FinOps Foundation)"
+                },
+                {
+                    "name": "Tim O'Brien (Walmart)"
+                },
+                {
+                    "name": "Michael Flanakin (Microsoft)"
+                }
+            ],
+            "agendaTopics": [
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Maintainer Expectations",
+                    "platform": "",
+                    "id": "20250106-1",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Question about Billing Currency vs Local Currency",
+                    "platform": "",
+                    "id": "20250106-2",
+                    "url": "",
+                    "type": "Topic",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] (BUG) Ensure all user-defined Tags are encapsulated within the Tags column",
+                    "platform": "FOCUS_Spec",
+                    "id": "540",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/540",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Augment Support for Correction Handling and #636 Clarify Guidance Around Refunds",
+                    "platform": "FOCUS_Spec",
+                    "id": "556",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/556",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Clarify guidance around Refunds within FOCUS",
+                    "platform": "FOCUS_Spec",
+                    "id": "636",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/636",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Refine Normative Requirements for All Existing Spec Content",
+                    "platform": "FOCUS_Spec",
+                    "id": "557",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/557",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Revise Glossary Definition for FOCUS Dataset to Include Provider Columns",
+                    "platform": "FOCUS_Spec",
+                    "id": "617",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/617",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Prevent double-counting list/contracted cost for commitment discounts",
+                    "platform": "FOCUS_Spec",
+                    "id": "647",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/647",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Clarify definition of SKU ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "314",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/314",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Add SKU and SKU Price properties (e.g. term, tier, SKU region)",
+                    "platform": "FOCUS_Spec",
+                    "id": "619",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/619",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Denote provider entities represented in Billing Account and Sub Account",
+                    "platform": "FOCUS_Spec",
+                    "id": "317",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/317",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Add Invoice ID",
+                    "platform": "FOCUS_Spec",
+                    "id": "615",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/615",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Define change management principles to determine backwards compatibility",
+                    "platform": "FOCUS_Spec",
+                    "id": "643",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/643",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Document and add initial support for SaaS-centric concepts",
+                    "platform": "FOCUS_Spec",
+                    "id": "616",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/616",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "Expose Commitment Discount Price and Cost",
+                    "platform": "FOCUS_Spec",
+                    "id": "534",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/534",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Support for recognising contractual commitment events as billing records (i.e. burn up, negotiated rates)",
+                    "platform": "FOCUS_Spec",
+                    "id": "666",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/666",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Cloud Sustainability",
+                    "platform": "FOCUS_Spec",
+                    "id": "637",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/637",
+                    "type": "Issue",
+                    "releaseVersion": "1.2",
+                    "discussed": true
+                },
+                {
+                    "startTimestamp": "",
+                    "endTimestamp": "",
+                    "title": "[Work_Item] Bring your own license support",
+                    "platform": "FOCUS_Spec",
+                    "id": "672",
+                    "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/672",
+                    "type": "Issue",
                     "releaseVersion": "1.2",
                     "discussed": true
                 }
