@@ -1,27 +1,11 @@
 // plugins/filterTopic.ts
-//import meetingRegister from 'public/data/meetingRegister.json'
-
-/*
-export default defineNuxtPlugin((nuxtApp) => {
-
-    // Take a list of meetings, extract the titles of the agenda topics from each meeting,
-    // and create a new list where each meeting is represented by just the titles of its topics
-    const formattedMeetings = meetingRegister.meetings.map((meeting) => ({
-        topics: meeting.agendaTopics.map((topic) => topic.title),
-    }))
-    for (const meeting of formattedMeetings) {
-        console.log(meeting.topics)
-    }
-    for (const topic of formattedMeetings){
-        //console.log(topic)
-    }
-})
-*/
 
 export default defineNuxtPlugin((nuxtApp) => {
     // Define types for the meeting structure
     type AgendaTopic = {
         title: string;
+        id: string;
+        url?: string;
     };
 
     type Meeting = {
@@ -32,16 +16,39 @@ export default defineNuxtPlugin((nuxtApp) => {
         meetings: Meeting[];
     };
 
+    type FormattedTopic = {
+        id: string;
+        title: string;
+        link?: string; // Optional field for the link
+    };
+
     type FormattedMeeting = {
-        topics: string[];
+        topics: FormattedTopic[];
     };
 
     // Define the function to process meeting data
     const filterTopic = (meetingRegister: MeetingRegister): FormattedMeeting[] => {
-        // Extract the topics' titles from the agenda topics of each meeting
-        const formattedMeetings = meetingRegister.meetings.map((meeting) => ({
-            topics: meeting.agendaTopics.map((topic) => topic.title),
-        }));
+        // Extract the topics, their IDs, and optionally links
+        const formattedMeetings = []
+        meetingRegister.meetings.map((meeting) => {
+            const attendees = []
+            meeting.attendees.map((attendee) => {
+                attendees.push(attendee.name)
+            })
+            
+            return meeting.agendaTopics.map((topic) => {
+                formattedMeetings.push({
+                    id: topic.id,
+                    title: topic.title,
+                    link: topic.url ? topic.url : undefined, // Generate link if `url` exists
+                    discussed: topic.discussed ? 'YES' : 'NO',
+                    releaseVersion: topic.releaseVersion,
+                    meetingID: meeting.id,
+                    group: meeting.groupID,
+                    attendees: attendees.join(', '),
+                })
+            })
+        });
 
         console.log(formattedMeetings);
         return formattedMeetings;

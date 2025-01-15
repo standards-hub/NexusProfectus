@@ -15,55 +15,53 @@ ui:
   transformRawData: "filterTopic"
   dataField: ''
   columns:
-    - name: "Groups"
-      title: "Groups"
+    - name: "id"
+      title: "Topic ID"
       filter: false
+      query: false
+      hide: false
+      sortable: false
+      type: text
+    - name: "title"
+      title: "Title"
+      filter: false
+      query: false
+      hide: false
+      sortable: false
+      type: text
+    - name: "meetingID"
+      title: "Meeting ID"
+      filter: true
       query: true
       hide: false
       sortable: false
       type: text
-    - name: "Dates"
-      title: "Dates"
-      filter: false
+    - name: "group"
+      title: "Group"
+      filter: true
       query: true
-      sortable: true
-      type: number
-    - name: "Attendees"
+      hide: false
+      sortable: false
+      type: text
+    - name: "releaseVersion"
+      title: "Release Version"
+      filter: true
+      query: true
+      hide: false
+      sortable: false
+      type: text
+    - name: "discussed"
+      title: "Discussed"
+      filter: true
+      query: false
+      hide: false
+      sortable: false
+      type: text
+    - name: "attendees"
       title: "Attendees"
-      hide: true
       filter: false
       query: true
-      sortable: true
-      type: text
-    - name: "Release Version"
-      title: "Rel Version"
-      hide: true
-      filter: true
-      query: true
-      sortable: true
-      type: text
-    - name: "Minnutes"
-      title: "Minutes"
-      filter: false
-      query: false
-      sortable: true
-      type: text
-    - name: "topics"
-      title: "Topics"
-      filter: true
-      query: true
-      sortable: true
-      type: text
-    - name: "Item"
-      title: "Item"
-      filter: false
-      query: false
-      sortable: true
-      type: number
-    - name: "Resources"
-      title: "Resources"
-      filter: false
-      query: false
+      hide: false
       sortable: false
       type: text
   header: FOCUS GitHub Items
